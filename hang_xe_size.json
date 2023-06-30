@@ -734,5 +734,341 @@
 		"hang": "Chevrolet",
 		"size": "255/65R17,265/60R18,245/70R16,265/60R18,245/70R16",
 		"cuthe": "Chevrolet Colorado, m\u00E1y d\u1EA7u, \u0111\u1ED9ng c\u01A1 DOHC, dung t\u00EDch 2.8L, h\u1ED9p s\u1ED1 s\u1ED1 tay 5 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 255/65R17\nChevrolet Colorado 2.8AT Centennial, m\u00E1y d\u1EA7u, \u0111\u1ED9ng c\u01A1 DOHC Turbo, dung t\u00EDch 2.8L, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 265/60R18, l\u1ED1p d\u1EF1 ph\u00F2ng 245/70R16\nChevrolet Colorado 2.8AT 4x4 High Country, m\u00E1y d\u1EA7u , \u0111\u1ED9ng c\u01A1 DOHC Turbo, dung t\u00EDch 2.8L, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 265/60R18, l\u1ED1p d\u1EF1 ph\u00F2ng 245/70R16"
+	},
+	{
+		"maxe": 93,
+		"tenxe": "Chevrolet Cruze",
+		"dong": "Cruze",
+		"hang": "Chevrolet",
+		"size": "205/65R15,205/60R16,215/50R17",
+		"cuthe": "Xe Chevrolet Cruze LS 1.6 MT5, Vi\u1EC7t Nam 4/2010-6/2013, d\u00F9ng c\u1EE1 l\u1ED1p 205/65R15,\nXe Chevrolet Cruze LT 1.6 MT5, Vi\u1EC7t Nam 2015\u002B d\u00F9ng c\u1EE1 l\u1ED1p 205/60R16,\nXe Chevrolet Cruze LTZ 1.8 AT6, Vi\u1EC7t Nam 4/2010-6/2013 v\u00E0 6/2013-8/2015 d\u00F9ng c\u1EE1 l\u1ED1p 205/60R16,\nXe Chevrolet Cruze LTZ 1.8 AT6, Vi\u1EC7t Nam 8/2015\u002B d\u00F9ng c\u1EE1 l\u1ED1p 215/50R17,"
+	},
+	{
+		"maxe": 94,
+		"tenxe": "Chevrolet Lacetti",
+		"dong": "Lacetti",
+		"hang": "Chevrolet",
+		"size": "185/65R14,195/55R15,205/65R15,215/50R17",
+		"cuthe": "Xe Lacetti EX 1.6 MT5 tr\u1EE3 l\u00E1i th\u1EE7y l\u1EF1c, Vi\u1EC7t Nam 8/2007-2011, d\u00F9ng c\u1EE1 l\u1ED1p 185/65R14,\nXe Lacetti max 1.8 MT5 d\u00F9ng c\u1EE1 l\u1ED1p 195/55R15\nXe Lacetti SE 1.6 MT5 nh\u1EADp kh\u1EA9u d\u00F9ng c\u1EE1 l\u1ED1p 205/65R15,\nXe Lacetti CDX 1.6 AT6 nh\u1EADp kh\u1EA9u d\u00F9ng c\u1EE1 l\u1ED1p 215/50R17,"
+	},
+	{
+		"maxe": 95,
+		"tenxe": "Chevrolet Orlando",
+		"dong": "Orlando",
+		"hang": "Chevrolet",
+		"size": "225/50R17,205/60R16",
+		"cuthe": "Xe Chevrolet Orlando LS v\u00E0 LT m\u00E1y x\u0103ng, \u0111\u1ED9ng c\u01A1 1.8 DOHC, MFI, dung t\u00EDch 1.8L, h\u1ED9p s\u1ED1 5 s\u1ED1 s\u00E0n, d\u00F9ng c\u1EE1 l\u1ED1p 225/50R17,\nXe Chevrolet Orlando LTZ c\u00F3 \u0111\u1ED9ng c\u01A1 1.8 DOHC, MFI, dung t\u00EDch 1.8L, h\u1ED9p s\u1ED1 6 s\u1ED1 t\u1EF1 \u0111\u1ED9ng, d\u00F9ng c\u1EE1 l\u1ED1p 225/50R17,\nC\u00E1c b\u1EA3n n\u00E2ng c\u1EA5p c\u00F3 th\u1EC3 d\u00F9ng c\u1EE1 l\u1ED1p 205/60R16"
+	},
+	{
+		"maxe": 96,
+		"tenxe": "Chevrolet Silverado",
+		"dong": "Silverado",
+		"hang": "Chevrolet",
+		"size": "265/65R18",
+		"cuthe": "Xe Chevrolet Silverado \u0111\u1ED9ng c\u01A1 V8, dung t\u00EDch 5.3L, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 8 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 265/65R18,"
+	},
+	{
+		"maxe": 97,
+		"tenxe": "Chevrolet Spark",
+		"dong": "Spark",
+		"hang": "Chevrolet",
+		"size": "145/70R13, 155/65R13,165/65R14",
+		"cuthe": "Chevrlet Spark d\u00F9ng c\u1EE1 l\u1ED1p 145/70R13, 155/65R13\nXe Chevrolet Spark Duo, dung t\u00EDch 1.2, s\u1ED1 s\u00E0n 5 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, d\u00F9ng c\u1EE1 l\u1ED1p 165/65R14"
+	},
+	{
+		"maxe": 98,
+		"tenxe": "Chevrolet Trailblazer",
+		"dong": "Trailblazer",
+		"hang": "Chevrolet",
+		"size": "255/65R17,245/70R16,265/60R18,245/70R16",
+		"cuthe": "Xe Chevrolet Trailblazer F101 4x2 MT LT, m\u00E1y d\u1EA7u, h\u1ED9p s\u1ED1 s\u00E0n 6 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 255/65R17, l\u1ED1p d\u1EF1 ph\u00F2ng d\u00F9ng c\u1EE1 l\u1ED1p 245/70R16\nXe Chevrolet Trailblazer 2.8L 4x4 AT LTZ, m\u00E1y d\u1EA7u, h\u1ED9p s\u1ED1 s\u00E0n 6 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 265/60R18, l\u1ED1p d\u1EF1 ph\u00F2ng d\u00F9ng c\u1EE1 l\u1ED1p 245/70R16"
+	},
+	{
+		"maxe": 99,
+		"tenxe": "Chevrolet Trax",
+		"dong": "Trax",
+		"hang": "Chevrolet",
+		"size": "215/55R18",
+		"cuthe": "Xe Chevrolet Trax, \u0111\u1ED9ng c\u01A1 Turbo1.4L, dung t\u00EDch 1.4L, d\u00F9ng c\u1EE1 l\u1ED1p 215/55R18,"
+	},
+	{
+		"maxe": 100,
+		"tenxe": "Chevrolet Vivant",
+		"dong": "Vivant",
+		"hang": "Chevrolet",
+		"size": "195/60R15",
+		"cuthe": "Xe Chevrolet Vivant CDX AT, Vivant CDX MT, Vivant SE,\n\u0110\u1ED9ng c\u01A1 dung t\u00EDch 2.0L, h\u1ED9p s\u1ED1 AT 4 c\u1EA5p v\u00E0 MT 5 c\u1EA5p,\nL\u1ED1p xe Chevrolet Vivant d\u00F9ng c\u1EE1 l\u1ED1p 195/60R15 (c\u1EA3 3 Model)"
+	},
+	{
+		"maxe": 101,
+		"tenxe": "Chrysler 300",
+		"dong": "300",
+		"hang": "Chrysler",
+		"size": "235/60R18",
+		"cuthe": "Xe Chrysler 300 (2010), \u0111\u1ED9ng c\u01A1 V6/2.7, d\u00F9ng c\u1EE1 l\u1ED1p 235/60R18,\nXe Chrysler 300 Limited (2010), \u0111\u1ECDng c\u01A1 V6/3.5, h\u1ED9p s\u1ED1 AT 4 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 235/60R18,"
+	},
+	{
+		"maxe": 102,
+		"tenxe": "Chrysler Grand Voyager",
+		"dong": "Grand Voyager",
+		"hang": "Chrysler",
+		"size": "225/65R17",
+		"cuthe": "225/65R17"
+	},
+	{
+		"maxe": 103,
+		"tenxe": "Daewoo Gentra",
+		"dong": "Gentra",
+		"hang": "Daewoo",
+		"size": "155/80R13,185/60R14",
+		"cuthe": "Xe Daewoo Gentra S l\u00E0 xe m\u00E1y x\u0103ng, dung t\u00EDch 1.5L, h\u1ED9p s\u1ED1 5 s\u1ED1 tay, d\u00F9ng c\u1EE1 l\u1ED1p 155/80R13,\nXe Daewoo Gentra SX l\u00E0 xe m\u00E1y x\u0103ng, dung t\u00EDch 1.5L, h\u1ED9p s\u1ED1 5 s\u1ED1 tay, d\u00F9ng c\u1EE1 l\u1ED1p 185/60R14,"
+	},
+	{
+		"maxe": 104,
+		"tenxe": "Lacetti SE",
+		"dong": "SE",
+		"hang": "Daewoo",
+		"size": "205/65R15",
+		"cuthe": "Xe Lacetti SE \u0111\u1ED9ng c\u01A1 1.6L, xe nh\u1EADp kh\u1EA9u, h\u1ED9p s\u1ED1 s\u00E0n 5 c\u1EA5p,\nL\u1ED1p xe Lacetti SE nh\u1EADp kh\u1EA9u d\u00F9ng c\u1EE1 l\u1ED1p 205/65R15,"
+	},
+	{
+		"maxe": 105,
+		"tenxe": "Lacetti EX",
+		"dong": "EX",
+		"hang": "Daewoo",
+		"size": "185/65R14",
+		"cuthe": "Xe Daewoo Lacetti EX 1.6 MT5 tr\u1EE3 l\u00E1i th\u1EE7y l\u1EF1c, Vi\u1EC7t Nam 8/2007-2011, d\u00F9ng c\u1EE1 l\u1ED1p 185/65R14,"
+	},
+	{
+		"maxe": 106,
+		"tenxe": "Lacetti CDX",
+		"dong": "CDX",
+		"hang": "Daewoo",
+		"size": "215/50R17",
+		"cuthe": "Xe Lacetti CDX \u0111\u1ED9ng c\u01A1 1.6L, xe nh\u1EADp kh\u1EA9u, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p,\nL\u1ED1p xe Lacetti CDX nh\u1EADp kh\u1EA9u d\u00F9ng c\u1EE1 l\u1ED1p 215/50R17,"
+	},
+	{
+		"maxe": 107,
+		"tenxe": "Lacetti Max",
+		"dong": "Max",
+		"hang": "Daewoo",
+		"size": "195/55R15",
+		"cuthe": "\u0110\u1ED9ng c\u01A1 dung t\u00EDch 1.8L, h\u1ED9p s\u1ED1: 5 s\u1ED1 s\u00E0n,\nXe Lacetti max d\u00F9ng c\u1EE1 l\u1ED1p 195/55R15,"
+	},
+	{
+		"maxe": 108,
+		"tenxe": "Lanos",
+		"dong": "Lanos",
+		"hang": "Daewoo",
+		"size": "175/70R13",
+		"cuthe": "Xe Daewoo Lanos l\u00E0 xe m\u00E1y x\u0103ng, \u0111\u1ED9ng c\u01A1 SOHC, dung t\u00EDch 1.5L, h\u1ED9p s\u1ED1 5 s\u1ED1 tay, d\u00F9ng c\u1EE1 l\u1ED1p 175/70R13"
+	},
+	{
+		"maxe": 109,
+		"tenxe": "Matiz",
+		"dong": "Matiz",
+		"hang": "Daewoo",
+		"size": "145/70R13",
+		"cuthe": "Xe Daewoo Matiz l\u00E0 xe m\u00E1y x\u0103ng, \u0111\u1ED9ng c\u01A1 3L.SOHC, h\u1ED9p s\u1ED1 5 s\u1ED1 tay, d\u00F9ng c\u1EE1 l\u1ED1p 145/70R13"
+	},
+	{
+		"maxe": 110,
+		"tenxe": "Matiz Groove",
+		"dong": "Groove",
+		"hang": "Daewoo",
+		"size": "155/70R14",
+		"cuthe": "Xe Matiz Groove d\u00F9ng c\u1EE1 l\u1ED1p 155/70R14"
+	},
+	{
+		"maxe": 111,
+		"tenxe": "Daewoo Magnus",
+		"dong": "Magnus",
+		"hang": "Daewoo",
+		"size": "205/55R16",
+		"cuthe": "Xe Daewoo Magnus Eagle 2.0 m\u00E1y x\u0103ng, \u0111\u1ED9ng c\u01A1 DOHC, dung t\u00EDch 2.0L, h\u1ED9p s\u1ED1 5 s\u1ED1 tay, d\u00F9ng c\u1EE1 l\u1ED1p 205/55R16,\nXe Daewoo Magnus L6 m\u00E1y x\u0103ng, \u0111\u1ED9ng c\u01A1 DOHC MPI. dung t\u00EDch 2.5L, h\u1ED9p s\u1ED1 4 s\u1ED1 t\u1EF1 \u0111\u1ED9ng, d\u00F9ng c\u1EE1 l\u1ED1p 205/55R16"
+	},
+	{
+		"maxe": 112,
+		"tenxe": "Daewoo Vivant",
+		"dong": "Vivant",
+		"hang": "Daewoo",
+		"size": "185/70R14, 195/60R15",
+		"cuthe": "Xe Daewoo Vivant d\u00F9ng c\u1EE1 l\u1ED1p 185/70R14, 195/60R15"
+	},
+	{
+		"maxe": 113,
+		"tenxe": "Ford Ecosport",
+		"dong": "Ecosport",
+		"hang": "Ford",
+		"size": "205/60R16,205/50R17",
+		"cuthe": "- Xe Ford Ecosport \u0111\u1ED9ng c\u01A1 x\u0103ng 1.5L, h\u1ED9p s\u1ED1 ly h\u1EE3p k\u00E9p 6 c\u1EA5p v\u00E0 b\u1EA3n s\u1ED1 s\u00E0n 5 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 205/60R16,\n- Xe Ford EcoSport \u0111\u1ED9ng c\u01A1 1.0 Vi\u1EC7t Nam, \u0111\u1ED9ng c\u01A1 x\u0103ng 1.0, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 205/50R17"
+	},
+	{
+		"maxe": 114,
+		"tenxe": "Ford Escape 2.3",
+		"dong": "Ford Escape",
+		"hang": "Ford",
+		"size": "225/70R15,215/70R16",
+		"cuthe": "Xe Ford Escape 2.3 XLS AT4, m\u00E1y x\u0103ng, \u0111\u1ED9ng c\u01A1 I4, d\u00F9ng c\u1EE1 l\u1ED1p 225/70R15,\nXe Ford Escape 2.3 4x4 XLS AT4, Vi\u1EC7t Nam, m\u00E1y x\u0103ng, \u0111\u1ED9ng c\u01A1 I4, d\u00F9ng c\u1EE1 l\u1ED1p 215/70R16,\nXe Ford Escape 2.3L 4x4 XLT AT4, Vi\u1EC7t Nam, m\u00E1y x\u0103ng, \u0111\u1ED9ng c\u01A1 I4, d\u00F9ng c\u1EE1 l\u1ED1p 215/70R16,"
+	},
+	{
+		"maxe": 115,
+		"tenxe": "Ford Escape 3.0",
+		"dong": "Ford Escape",
+		"hang": "Ford",
+		"size": "235/70R16",
+		"cuthe": "Xe Ford Escape XLT 3.0, m\u00E1y x\u0103ng, \u0111\u1ED9ng c\u01A1/dung t\u00EDch V6/3.0L, h\u1ED9p s\u1ED1 4 s\u1ED1 t\u1EF1 \u0111\u1ED9ng, d\u00F9ng size l\u1ED1p 235/70R16"
+	},
+	{
+		"maxe": 116,
+		"tenxe": "Ford Everest 2.2",
+		"dong": "Ford Everest",
+		"hang": "Ford",
+		"size": "265/65R17,265/60R18,265/50R20",
+		"cuthe": "Xe Everest Ambiente 2.2 diesel MT6 4x2 v\u00E0 4WD tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, Th\u00E1i 2015\u002B, nh\u1EADp v\u1EC1 Vi\u1EC7t Nam t\u1EEB th\u00E1ng 10/2017 d\u00F9ng c\u1EE1 l\u1ED1p 265/65R17,\nXe Everest Trend 2.2 diesel AT6 4x2 tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, Th\u00E1i 2015\u002B d\u00F9ng c\u1EE1 l\u1ED1p 265/60R18, \nXe Everest Titanium 2.2 diesel AT6 4x2 tr\u1EE3 l\u1EF1c \u0111i\u1EC7n,Th\u00E1i 2015\u002B d\u00F9ng c\u1EE1 l\u1ED1p 265/50R20,"
+	},
+	{
+		"maxe": 117,
+		"tenxe": "Ford Everest 2.5",
+		"dong": "Ford Everest",
+		"hang": "Ford",
+		"size": "265/70R15,245/70R16,255/60R18,",
+		"cuthe": "Xe Everest 2.5 XLT diesel MT5 4x4 tr\u1EE3 l\u00E1i th\u1EE7y l\u1EF1c, Vi\u1EC7t Nam 5/2005-5/2007 d\u00F9ng c\u1EE1 l\u1ED1p 265/70R15,\nXe Everest 2.5 all new diesel MT5 4x4 tr\u1EE3 l\u00E1i th\u1EE7y l\u1EF1c, Vi\u1EC7t Nam 5/2007-5/2009 d\u00F9ng c\u1EE1 l\u1ED1p 245/70R16,\nXe Everest 2.5 TDCi diesel MT5 4x2 tr\u1EE3 l\u00E1i th\u1EE7y l\u1EF1c, Vi\u1EC7t Nam 5/2009-5/2013 d\u00F9ng c\u1EE1 l\u1ED1p 245/70R16,\nXe Everest 2.5 diesel MT5 4x2 tr\u1EE3 l\u00E1i th\u1EE7y l\u1EF1c, b\u1EA3n n\u00E2ng c\u1EA5p, Vi\u1EC7t Nam 5/2013-12/2015 d\u00F9ng c\u1EE1 l\u1ED1p 255/60R18,"
+	},
+	{
+		"maxe": 118,
+		"tenxe": "Ford Everest 3.2",
+		"dong": "Ford Everest",
+		"hang": "Ford",
+		"size": "265/50R20",
+		"cuthe": "Xe Everest Titanium 3.2 diesel AT6 4WD tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, Th\u00E1i 2015\u002B d\u00F9ng c\u1EE1 l\u1ED1p 265/50R20, "
+	},
+	{
+		"maxe": 119,
+		"tenxe": "Ford Explorer",
+		"dong": "Explorer",
+		"hang": "Ford",
+		"size": "255/50R20",
+		"cuthe": "Xe Ford Explorer \u0111\u1ED9ng c\u01A1 x\u0103ng 2.3L, \u0111\u1ED9ng c\u01A1/dung t\u00EDch I4/2.3L, h\u1ED9p s\u1ED1 t\u1EF1 d\u1ED9ng 6 c\u1EA5p, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 255/50R20, "
+	},
+	{
+		"maxe": 120,
+		"tenxe": "Ford Fiesta 1.0 Ecoboost",
+		"dong": "Ford Fiesta",
+		"hang": "Ford",
+		"size": "195/50R16",
+		"cuthe": "Xe Ford Fiesta 1.0 Ecoboost, m\u00E1y x\u0103ng, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 195/50R16,"
+	},
+	{
+		"maxe": 121,
+		"tenxe": "Ford Fiesta 1.5",
+		"dong": "Ford Focus",
+		"hang": "Ford",
+		"size": "185/55R15,195/50R16",
+		"cuthe": "Xe Ford Fiesta 1.5 Trend d\u00F9ng size l\u1ED1p 185/55R15.\nXe Ford Fiesta 1.5 Sport, Fiesta 1.5 Titanium, m\u00E1y x\u0103ng, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 195/50R16,"
+	},
+	{
+		"maxe": 122,
+		"tenxe": "Ford Focus 1.6",
+		"dong": "Ford Focus",
+		"hang": "Ford",
+		"size": "205/60R16",
+		"cuthe": "Xe Ford Focus 1.6 h\u1ED9p s\u1ED1 MT 5 c\u1EA5p v\u00E0 DCT 6, Vi\u1EC7t Nam 2013\u002B d\u00F9ng c\u1EE1 l\u1ED1p 205/60R16,"
+	},
+	{
+		"maxe": 123,
+		"tenxe": "Ford Focus 1.8",
+		"dong": "Ford Focus",
+		"hang": "Ford",
+		"size": "195/65R15,205/55R16",
+		"cuthe": "Xe Focus 1.8 AT4 tr\u1EE3 l\u00E1i \u0111i\u1EC7n, b\u1EA3n n\u00E2ng c\u1EA5p, Vi\u1EC7t Nam 8/2009-12/2012 d\u00F9ng c\u1EE1 l\u1ED1p 195/65R15\nXe Focus sedan 1.8 MT5 tr\u1EE3 l\u00E1i \u0111i\u1EC7n, Vi\u1EC7t Nam 8/2009-12/2012 d\u00F9ng c\u1EE1 l\u1ED1p 205/55R16"
+	},
+	{
+		"maxe": 124,
+		"tenxe": "Ford Focus 2.0",
+		"dong": "Ford Focus",
+		"hang": "Ford",
+		"size": "205/55R16,215/50R17",
+		"cuthe": "Xe Focus sedan 2.0 AT4 tr\u1EE3 l\u00E1i \u0111i\u1EC7n, Vi\u1EC7t Nam 8/2009-12/2012 d\u00F9ng c\u1EE1 l\u1ED1p 205/55R16,\nXe Focus S 2.0 diesel AT6 tr\u1EE3 l\u00E1i \u0111i\u1EC7n, Vi\u1EC7t Nam 8/2009-12/2012 d\u00F9ng c\u1EE1 l\u1ED1p 205/55R16,\nXe All New Focus 2.0 h\u1ED9p s\u1ED1 DCT 6 c\u1EA5p, Vi\u1EC7t Nam 2013\u002B d\u00F9ng c\u1EE1 l\u1ED1p 205/60R16, b\u1EA3n Sport d\u00F9ng c\u1EE1 l\u1ED1p 215/50R17,"
+	},
+	{
+		"maxe": 125,
+		"tenxe": "Ford F350",
+		"dong": "F350",
+		"hang": "Ford",
+		"size": "245/75R17",
+		"cuthe": "Xe Ford F350 c\u1EE9u h\u1ED9, dung t\u00EDch \u0111\u1ED9ng c\u01A1 6.2L, d\u00F9ng c\u1EE1 l\u1ED1p 245/75R17 (6 qu\u1EA3),"
+	},
+	{
+		"maxe": 126,
+		"tenxe": "Ford Flex Limited",
+		"dong": "Flex Limited",
+		"hang": "Ford",
+		"size": "235/55R19",
+		"cuthe": "Xe Ford Flex Limited 2016 nh\u1EADp kh\u1EA9u, \u0111\u1ED9ng c\u01A1 3.5L V6 d\u00F9ng c\u1EE1 l\u1ED1p 235/55R19,"
+	},
+	{
+		"maxe": 127,
+		"tenxe": "Ford Laser",
+		"dong": "Laser",
+		"hang": "Ford",
+		"size": "185/65R14,195/55R15",
+		"cuthe": "Xe Ford Laser Deluxe model 2001, Ford Laser LX 1.6, Ford Laser Ghia 1.8MT, Ford Laser Ghia 1.8AT model 2003 d\u00F9ng c\u00E1c c\u1EE1 l\u1ED1p 185/65R14, 195/55R15"
+	},
+	{
+		"maxe": 128,
+		"tenxe": "Ford Mondeo",
+		"dong": "Mondeo",
+		"hang": "Ford",
+		"size": "205/55R16,235/45R17,225/50R17",
+		"cuthe": "Xe Ford Mondeo 2.0, xe Ford Mondeo 2.5 (2003-2007) d\u00F9ng c\u1EE1 l\u1ED1p 205/55R16,\nXe Ford Mondeo 2.3 \u0110\u00E0i Loan, m\u00E1y x\u0103ng, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 235/45R17,\nXe Ford Mondeo 2.3 Vi\u1EC7t Nam, m\u00E1y x\u0103ng, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 225/50R17"
+	},
+	{
+		"maxe": 129,
+		"tenxe": "Ford Territory",
+		"dong": "Territory",
+		"hang": "Ford",
+		"size": "235/50R19",
+		"cuthe": "Xe Territory 2022 l\u00E0 m\u1EABu SUV c\u1EE1 trung ra m\u1EAFt 10/2022, \u0111\u1ED1i th\u1EE7 c\u1EA1nh tranh c\u1EE7a Hyundai Tucson, CRV, Mazda CX5, Kia Sportage,\nS\u1EED d\u1EE5ng \u0111\u1ED9ng c\u01A1 x\u0103ng 1.5 Ecoboost t\u0103ng \u00E1p\nXe Territory \u0111\u01B0\u1EE3c l\u1EAFp r\u00E1p t\u1EA1i Vi\u1EC7t Nam v\u1EDBi 3 phi\u00EAn b\u1EA3n: Trend, Titanium, Titanium X\nC\u1EE1 l\u1ED1p b\u1EA3n Trend v\u00E0 Titanium, 235/55R18, b\u1EA3n Titanium s\u1EED d\u1EE5ng c\u1EE1 235/50R19"
+	},
+	{
+		"maxe": 130,
+		"tenxe": "Ford Ranger 2.2",
+		"dong": "Ford Ranger",
+		"hang": "Ford",
+		"size": "265/60R18,265/65R17,255/70R16",
+		"cuthe": "Xe Ford Ranger Wildtrak 2.2 AT 4x2 d\u00F9ng c\u1EE1 l\u1ED1p 265/60R18,\nXe Ford Ranger XLT 2.2 4x4 MT d\u00F9ng c\u1EE1 l\u1ED1p 265/65R17,\nXe Ford Ranger XLS 2.2 4X2 AT, Ford Ranger XLS 2.2 4x2 MT, Ford Ranger XL 2.2 4x4 MT \u0111\u1EC1u d\u00F9ng c\u1EE1 l\u1ED1p 255/70R16, "
+	},
+	{
+		"maxe": 131,
+		"tenxe": "Ford Ranger 2.5",
+		"dong": "Ford Ranger",
+		"hang": "Ford",
+		"size": "215/70R15,235/75R15,245/70R16, 265/70R15",
+		"cuthe": "Xe Ford Ranger 4x2 XL, diesel, dung t\u00EDch 2.5L, h\u1ED9p s\u1ED1 5 s\u1ED1 tay, d\u00F9ng c\u1EE1 l\u1ED1p 215/70R15,\nXe Ford Ranger 4x4 XL, diesel, dung t\u00EDch 2.5L, h\u1ED9p s\u1ED1 5 s\u1ED1 tay, d\u00F9ng c\u1EE1 l\u1ED1p 235/75R15,\nXe Ford Ranger 4x4 XLT, diesel, dung t\u00EDch 2.5L, h\u1ED9p s\u1ED1 5 s\u1ED1 tay, d\u00F9ng c\u1EE1 l\u1ED1p 245/70R16, 265/70R15"
+	},
+	{
+		"maxe": 132,
+		"tenxe": "Ford Ranger 3.2",
+		"dong": "Ford Ranger",
+		"hang": "Ford",
+		"size": "265/60R18",
+		"cuthe": "Xe Ford Ranger Wildtrack 3.2 AT 4x4 d\u00F9ng c\u1EE1 l\u1ED1p 265/60R18, "
+	},
+	{
+		"maxe": 133,
+		"tenxe": "Ford Transit",
+		"dong": "Transit",
+		"hang": "Ford",
+		"size": "215/75R16",
+		"cuthe": "Xe Ford Transit (b\u1EA3n ti\u00EAu chu\u1EA9n v\u00E0 b\u1EA3n cao c\u1EA5p) \u0111\u1EC1u trang b\u1ECB \u0111\u1ED9ng c\u01A1 Turbo diesel 2.4L, h\u1ED9p s\u1ED1 s\u00E0n 6 c\u1EA5p, \u0111\u1EC1u d\u00F9ng c\u1EE1 l\u1ED1p 215/75R16"
+	},
+	{
+		"maxe": 134,
+		"tenxe": "Ford Tourneo",
+		"dong": "Tourneo",
+		"hang": "Ford",
+		"size": "215/65R16",
+		"cuthe": "Xe Ford Tourneo c\u00F3 2 phi\u00EAn b\u1EA3n 2.0L Ecoboost Trend v\u00E0 2.0L EcoBoost Titanium, c\u1EA3 2 \u0111\u1EC1u s\u1EED d\u1EE5ng \u0111\u1ED9ng c\u01A1 I4, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng AT6, m\u00E1y x\u0103ng, tr\u1EE3 l\u00E1i \u0111i\u1EC7n, c\u1EE1 l\u1ED1p 215/65R16"
 	}
 ]
