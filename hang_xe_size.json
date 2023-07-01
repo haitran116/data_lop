@@ -1070,5 +1070,493 @@
 		"hang": "Ford",
 		"size": "215/65R16",
 		"cuthe": "Xe Ford Tourneo c\u00F3 2 phi\u00EAn b\u1EA3n 2.0L Ecoboost Trend v\u00E0 2.0L EcoBoost Titanium, c\u1EA3 2 \u0111\u1EC1u s\u1EED d\u1EE5ng \u0111\u1ED9ng c\u01A1 I4, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng AT6, m\u00E1y x\u0103ng, tr\u1EE3 l\u00E1i \u0111i\u1EC7n, c\u1EE1 l\u1ED1p 215/65R16"
+	},
+	{
+		"maxe": 135,
+		"tenxe": "Honda Accord 2.4",
+		"dong": "Accord",
+		"hang": "Honda",
+		"size": "225/50R17",
+		"cuthe": "Xe Honda Accord 2.4 x\u0103ng AT5, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n , Th\u00E1i Lan 2012-2016 d\u00F9ng c\u1EE1 l\u1ED1p 225/50R17\nXe Honda Accord 2.4 x\u0103ng AT5, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, 2017\u002B d\u00F9ng c\u1EE1 l\u1ED1p 255/50R17"
+	},
+	{
+		"maxe": 136,
+		"tenxe": "Honda Accord 3.5",
+		"dong": "Accord",
+		"hang": "Honda",
+		"size": "225/60R18",
+		"cuthe": "Xe Honda Accord 3.5, m\u00E1y x\u0103ng, \u0111\u1ED9ng c\u01A1/dung t\u00EDch:V6/3.5L, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 5 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 225/60R18"
+	},
+	{
+		"maxe": 137,
+		"tenxe": "Honda Civic 1.5 Turbo",
+		"dong": "Civic",
+		"hang": "Honda",
+		"size": "215/50R17,235/40R18",
+		"cuthe": "Xe Honda Civic 1.5L CVT, Honda Civic 1.5G CVT, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 215/50R17,\nXe Honda Civic 1.5RS 2020-2022, h\u1ED9p s\u1ED1 v\u00F4 c\u1EA5p CVT, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 235/40R18"
+	},
+	{
+		"maxe": 138,
+		"tenxe": "Honda Civic 1.8",
+		"dong": "Civic",
+		"hang": "Honda",
+		"size": "195/65R15,215/55R16,215/50R17",
+		"cuthe": "Honda Civic c\u00E1c \u0111\u1EDDi tr\u01B0\u1EDBc 2018 \u0111\u1EC1u s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 195/65R15\nHonda Civic 1.8E CVT 2018, 2020, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 215/55R16, Dunlop 215/55R16 Enasave EC300\nHonda Civic 1.8E 2022 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 215/55R16, 1.8G s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 215/50R17"
+	},
+	{
+		"maxe": 139,
+		"tenxe": "Honda Civic 2.0",
+		"dong": "Civic",
+		"hang": "Honda",
+		"size": "205/55R16,205/60R16",
+		"cuthe": "C\u00E1c phi\u00EAn b\u1EA3n c\u1EE7a xe Honda Civic 2.0  m\u00E1y x\u0103ng, d\u00F9ng c\u1EE1 l\u1ED1p 205/55R16, Honda Civic 2.0 model tr\u01B0\u1EDBc 2010 d\u00F9ng c\u1EE1 l\u1ED1p 205/60R16"
+	},
+	{
+		"maxe": 140,
+		"tenxe": "Honda City",
+		"dong": "City",
+		"hang": "Honda",
+		"size": "175/65R15,185/55R16,185/60R15",
+		"cuthe": "Xe Honda City 1.5MT m\u00E1y x\u0103ng, \u0111\u1ED9ng c\u01A1 ki\u1EC3u 4 xylanh th\u1EB3ng h\u00E0ng, h\u1ED9p s\u1ED1 5 s\u1ED1 s\u00E0n, d\u00F9ng c\u1EE1 l\u1ED1p 175/65R15\n\nXe Honda City 1.5 CVT 9/2014-6/2017, 2018-2022 b\u1EA3n L, RS d\u00F9ng c\u1EE1 l\u1ED1p 185/55R16\nXe Honda City 1.5 CVT 2018-2022 b\u1EA3n G d\u00F9ng c\u1EE1 l\u1ED1p 185/60R15, "
+	},
+	{
+		"maxe": 141,
+		"tenxe": "Honda CRV 1.5 Turbo",
+		"dong": "Turbo",
+		"hang": "Honda",
+		"size": "235/60R18",
+		"cuthe": "Honda CRV 1.5 Turbo 2018, nh\u1EADp kh\u1EA9u Th\u00E1i lan,\n- Ki\u1EC3u \u0111\u1ED9ng c\u01A1 I4, dung t\u00EDch 1.5, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n\n- C\u00F3 3 phi\u00EAn b\u1EA3n CRV 1.5E, CRV 1.5G, CRV 1.5L s\u1EED d\u1EE5ng size l\u1ED1p 235/60R18, Michelin Primacy 3ST,\n- Xe Honda CRV 1.5 Turbo 2020 (c\u00E1c b\u1EA3n 1.5E, 1.5G, 1.5L), CVT, s\u1EED d\u1EE5ng size l\u1ED1p 235/60R18, Michelin Primay 3ST"
+	},
+	{
+		"maxe": 142,
+		"tenxe": "Honda CRV 2.0 AT",
+		"dong": "AT",
+		"hang": "Honda",
+		"size": "225/65R17",
+		"cuthe": "Xe Honda CRV 2.0AT l\u00E0 d\u00F2ng xe SUV, m\u00E1y x\u0103ng, ki\u1EC3u \u0111\u1ED9ng c\u01A1 2.0 SOHC i-VTEC, 4 xy lanh th\u1EB3ng h\u00E0ng, 16 van, dung t\u00EDch 2.0L, h\u1ED9p s\u1ED1 5 s\u1ED1 t\u1EF1 \u0111\u1ED9ng, d\u00F9ng c\u1EE1 l\u1ED1p 225/65R17"
+	},
+	{
+		"maxe": 143,
+		"tenxe": "Honda CRV 2.4 AT",
+		"dong": "AT",
+		"hang": "Honda",
+		"size": "225/60R18",
+		"cuthe": "Xe Honda CRV 2.4AT l\u00E0 d\u00F2ng xe SUV, m\u00E1y x\u0103ng, \u0111\u1ED9ng c\u01A1 ki\u1EC3u 2.4 DOHC i-VTEC, 4 xy lanh th\u1EB3ng h\u00E0ng, 16 van, dung t\u00EDch 2.4L, h\u1ED9p s\u1ED1 5 s\u1ED1 t\u1EF1 \u0111\u1ED9ng, d\u00F9ng c\u1EE1 l\u1ED1p 225/60R18,"
+	},
+	{
+		"maxe": 144,
+		"tenxe": "Honda Fit",
+		"dong": "Fit",
+		"hang": "Honda",
+		"size": "195/60R15",
+		"cuthe": "Honda Fit 1.5, h\u1ED9p s\u1ED1 s\u00E0n 6 c\u1EA5p, \u0111\u1ED9ng c\u01A1 3 xi - lanh, d\u00F9ng c\u1EE1 l\u1ED1p 195/60R15"
+	},
+	{
+		"maxe": 145,
+		"tenxe": "Honda HRV 2018-2021",
+		"dong": "HRV",
+		"hang": "Honda",
+		"size": "215/55R17",
+		"cuthe": "Th\u00F4ng tin c\u01A1 b\u1EA3n v\u1EC1 xe Honda HRV 2018-2021\nHonda HRV ra m\u1EAFt t\u1EA1i Vi\u1EC7t Nam th\u00E1ng 9/2018 v\u1EDBi 2 phi\u00EAn b\u1EA3n 1.8G v\u00E0 1.8 L\nHonda HRV s\u1EED d\u1EE5ng \u0111\u1ED9ng c\u01A1 1.8L, h\u1ED9p s\u1ED1 v\u00F4 c\u1EA5p CVT\nC\u00E1c phi\u00EAn b\u1EA3n xe Honda HRV s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 215/55R17, l\u1ED1p d\u1EF1 ph\u00F2ng c\u1EE1 16 inch"
+	},
+	{
+		"maxe": 146,
+		"tenxe": "Honda HRV 2022\u002B",
+		"dong": "HRV",
+		"hang": "Honda",
+		"size": "215/60R17,225/50R18",
+		"cuthe": "Th\u00F4ng tin c\u01A1 b\u1EA3n v\u1EC1 xe Honda HRV 2022\nHonda HRV th\u1EBF h\u1EC7 m\u1EDBi ra m\u1EAFt th\u00E1ng 11/2021 v\u00E0 \u0111\u01B0\u1EE3c nh\u1EADp kh\u1EA9u v\u1EC1 Vi\u1EC7t Nam th\u00E1ng 6/2022 v\u1EDBi 2 phi\u00EAn b\u1EA3n: HRV 1.5 b\u1EA3n L v\u00E0 HRV 1.5 b\u1EA3n RS\nHonda HRV b\u1EA3n 2022 c\u00F3 nhi\u1EC1u thay \u0111\u1ED5i so v\u1EDBi b\u1EA3n ti\u1EC1n nhi\u1EC7m: \u0111\u1ED9ng c\u01A1, n\u1ED9i ngo\u1EA1i th\u1EA5t v\u00E0 c\u00E1c t\u00EDnh n\u0103ng an to\u00E0n ch\u1EE7 \u0111\u1ED9ng\nHonda HRV s\u1EED d\u1EE5ng \u0111\u1ED9ng c\u01A1 1.5 L VTEC Turbo, t\u0103ng \u00E1p 174 m\u00E3 l\u1EF1c, h\u1ED9p s\u1ED1 CVT d\u1EABn \u0111\u1ED9ng c\u1EA7u tr\u01B0\u1EDBc\nC\u1EE1 l\u1ED1p xe Honda HRV: phi\u00EAn b\u1EA3n L s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 215/60R17, b\u1EA3n RS s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p theo xe lo\u1EA1i Yokohama 225/50R18 Blue Earth"
+	},
+	{
+		"maxe": 147,
+		"tenxe": "Honda Jazz",
+		"dong": "Jazz",
+		"hang": "Honda",
+		"size": "175/65R15,185/55R16",
+		"cuthe": "Honda Jazz 1.5V, tr\u1EE3 l\u00E1i \u0111i\u1EC7n, \u0111\u1ED9ng c\u01A1/dung t\u00EDch I4/1.5L, h\u1ED9p s\u1ED1 v\u00F4 c\u1EA5p CVT, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 175/65R15,\nHonda Jazz 1.5VX, tr\u1EE3 l\u00E1i \u0111i\u1EC7n, \u0111\u1ED9ng c\u01A1/dung t\u00EDch I4/1.5L, h\u1ED9p s\u1ED1 v\u00F4 c\u1EA5p CVT, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 185/55R16\nHonda Jazz 1.5RS, tr\u1EE3 l\u00E1i \u0111i\u1EC7n, \u0111\u1ED9ng c\u01A1/dung t\u00EDch I4/1.5L, h\u1ED9p s\u1ED1 v\u00F4 c\u1EA5p CVT, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 185/55R16"
+	},
+	{
+		"maxe": 148,
+		"tenxe": "Honda Odyssey",
+		"dong": "Odyssey",
+		"hang": "Honda",
+		"size": "215/55R17",
+		"cuthe": "Honda Odyssey 2.4, \u0111\u1ED9ng c\u01A1/dung t\u00EDch I4/2.4L, tr\u1EE3 l\u00E1i \u0111i\u1EC7n, ki\u1EC3u h\u1ED9p s\u1ED1 v\u00F4 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 215/55R17, "
+	},
+	{
+		"maxe": 149,
+		"tenxe": "Honda Brio",
+		"dong": "Brio",
+		"hang": "Honda",
+		"size": "175/65R14,185/55R15",
+		"cuthe": "- Honda Brio 1.2G, \u0111\u1ED9ng c\u01A1 I4, h\u1ED9p s\u1ED1 v\u00F4 c\u1EA5p CVT, tr\u1EE3 l\u00E1i \u0111i\u1EC7n, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 175/65R14\n- Honda Brio 1.2RS, \u0111\u1ED9ng c\u01A1 I4, h\u1ED9p s\u1ED1 v\u00F4 c\u1EA5p CVT, tr\u1EE3 l\u00E1i \u0111i\u1EC7n, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 185/55R15"
+	},
+	{
+		"maxe": 150,
+		"tenxe": "Hyundai Accent",
+		"dong": "Accent",
+		"hang": "Hyundai",
+		"size": "195/50R16,185/65R14,185/65R15,195/55R16",
+		"cuthe": "Xe Hyundai Accent 1.4 MT6, Accent 1.4 CVT, Accent 5 c\u1EEDa, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 195/50R16, Hankook, c\u00F3 phi\u00EAn b\u1EA3n s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 185/65R14,\nXe Hyundai Accent 2018\u002B, 1.4MT, 1.4AT s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 185/65R15,\nXe Hyundai Accent 2018\u002B 1.4AT b\u1EA3n \u0111\u1EB7c bi\u1EC7t s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 195/55R16,"
+	},
+	{
+		"maxe": 151,
+		"tenxe": "Hyundai Avante 1.6",
+		"dong": "Avante",
+		"hang": "Hyundai",
+		"size": "185/65R15,195/65R15,205/55R16",
+		"cuthe": "Xe Hyundai Avanve 2009-2010 (1.6MT, 1.6AT) \u0111\u1EC1u s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 185/65R15\nXe Hyundai Avante 1.6MT (2011-2016) s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 195/65R15\nXe Hyundai Avante 1.6AT (2011-2015) s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 205/55R16"
+	},
+	{
+		"maxe": 152,
+		"tenxe": "Hyundai Avante 2.0",
+		"dong": "Avante",
+		"hang": "Hyundai",
+		"size": "205/55R16",
+		"cuthe": "Xe Hyundai Avante 2.0 AT 2011\u002B, m\u00E1y x\u0103ng, \u0111\u1ED9ng c\u01A1/dung t\u00EDch:I4/2.0L, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 205/55R16,"
+	},
+	{
+		"maxe": 153,
+		"tenxe": "Hyundai Creta",
+		"dong": "Creta",
+		"hang": "Hyundai",
+		"size": "215/60R17",
+		"cuthe": "Xe Hyundai Creta 1.6, c\u00F3 \u0111\u1ED9ng c\u01A1/ dung t\u00EDch I5/1.6L, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 215/60R17\nXe Hyundai Creta 2022 g\u1ED3m 3 phi\u00EAn b\u1EA3n: 1.5L ti\u00EAu chu\u1EA9n, 1.5L \u0111\u1EB7c bi\u1EC7t v\u00E0 1.5L cao c\u1EA5p s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 215/60R17"
+	},
+	{
+		"maxe": 154,
+		"tenxe": "Hyundai Elantra 1.6",
+		"dong": "Elantra",
+		"hang": "Hyundai",
+		"size": "195/65R15,205/55R16,225/45R17",
+		"cuthe": "Xe Hyundai Elantra 1.6MT, m\u00E1y x\u0103ng, \u0111\u1ED9ng c\u01A1/dung t\u00EDch: I4/1.6L, h\u1ED9p s\u1ED1 s\u00E0n 6 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 195/65R15,\nXe Hyundai Elantra 1.6AT, m\u00E1y x\u0103ng, \u0111\u1ED9ng c\u01A1/dung t\u00EDch:I4/1.6L, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 205/55R16,\nXe Hyundai Elantra Sport 1.6AT 2018, m\u00E1y x\u0103ng, \u0111\u1ED9ng c\u01A1/dung t\u00EDch: I4/1.6L, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 225/45R17,"
+	},
+	{
+		"maxe": 155,
+		"tenxe": "Hyundai Elantra 1.8",
+		"dong": "Elantra",
+		"hang": "Hyundai",
+		"size": "195/65R15,205/55R16,215/45R17",
+		"cuthe": "Xe Hyundai Elantra 1.8 MT s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 195/65R15\nXe Hyundai Elantra 1.8 AT s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 195/65R15, 205/55R16,\nXe Elantra GLS 1.8 AT 2015 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 215/45R17,"
+	},
+	{
+		"maxe": 156,
+		"tenxe": "Hyundai Elantra 2.0",
+		"dong": "Elantra",
+		"hang": "Hyundai",
+		"size": "225/45R17",
+		"cuthe": "Xe Hyundai Elantra GLS 2.0 x\u0103ng AT6 tr\u1EE3 l\u00E1i \u0111i\u1EC7n, Vi\u1EC7t Nam 7/2016\u002B d\u00F9ng c\u1EE1 l\u1ED1p 225/45R17, "
+	},
+	{
+		"maxe": 157,
+		"tenxe": "Hyundai Eon",
+		"dong": "Eon",
+		"hang": "Hyundai",
+		"size": "155/70R13",
+		"cuthe": "Xe Hyundai Eon s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 155/70R13"
+	},
+	{
+		"maxe": 158,
+		"tenxe": "Hyundai Equus",
+		"dong": "Equus",
+		"hang": "Hyundai",
+		"size": "235/55R17,245/50R18,275/40R19",
+		"cuthe": "Xe Hyundai Equus 3.8AT s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 235/55R17,\nXe Hyundai Equus 4.6AT s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 245/50R18,\nXe Hyundai Equus 5.0AT \u0111\u1EDDi 2011 l\u1ED1p tr\u01B0\u1EDBc s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 245/45R19, l\u1ED1p sau s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 275/40R19"
+	},
+	{
+		"maxe": 159,
+		"tenxe": "Hyundai Galloper",
+		"dong": "Galloper",
+		"hang": "Hyundai",
+		"size": "265/70R15",
+		"cuthe": "Xe Hyundai Galooper s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 265/70R15"
+	},
+	{
+		"maxe": 160,
+		"tenxe": "Hyundai Genesis",
+		"dong": "Genesis",
+		"hang": "Hyundai",
+		"size": "245/45R18,245/40R19",
+		"cuthe": "Xe Hyundai Genesis coupe 2.0AT l\u1ED1p tr\u01B0\u1EDBc d\u00F9ng size 225/45R18, l\u1ED1p sau d\u00F9ng c\u1EE1 l\u1ED1p 245/45R18,\nC\u00E1c phi\u00EAn b\u1EA3n kh\u00E1c c\u1EE7a Hyundai Genesis l\u1ED1p tr\u01B0\u1EDBc d\u00F9ng c\u1EE1 225/40R19, l\u1ED1p sau d\u00F9ng c\u1EE1 245/40R19"
+	},
+	{
+		"maxe": 161,
+		"tenxe": "Hyundai Getz",
+		"dong": "Getz",
+		"hang": "Hyundai",
+		"size": "165/65R14,185/60R14, 185/55R15",
+		"cuthe": "Xe Hyundai Getz d\u00F9ng size l\u1ED1p 165/65R14\nXe Hyundai Getz Click 1.4AT d\u00F9ng size l\u1ED1p 185/60R14, 185/55R15"
+	},
+	{
+		"maxe": 162,
+		"tenxe": "Hyundai i10",
+		"dong": "i10",
+		"hang": "Hyundai",
+		"size": "165/65R14",
+		"cuthe": "Xe Hyundai i10 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 165/65R14"
+	},
+	{
+		"maxe": 163,
+		"tenxe": "Hyundai i20",
+		"dong": "i20",
+		"hang": "Hyundai",
+		"size": "185/55R15,185/60R15,195/55R16",
+		"cuthe": "Xe Hyundai i20 1.4AT4 (2009-2013), h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 4 c\u1EA5p, tr\u1EE3 l\u00E1i th\u1EE7y l\u1EF1c, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 185/55R15, (185/60R15),\nXe Hyundai i20 Active 1.4 AT4 t\u1EEB th\u00E1ng 9/2015 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 195/55R16"
+	},
+	{
+		"maxe": 164,
+		"tenxe": "Hyundai i30",
+		"dong": "i30",
+		"hang": "Hyundai",
+		"size": "205/55R16,215/45R17",
+		"cuthe": "Xe Hyundai i30 1.6 AT4 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 205/55R16\nXe Hyundai i30 CW (2011-2012), h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 4 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 205/55R16\nXe Hyundai i30 CW 2013\u002B, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 4 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 215/45R17"
+	},
+	{
+		"maxe": 165,
+		"tenxe": "Hyundai Kona",
+		"dong": "Kona",
+		"hang": "Hyundai",
+		"size": "215/55R17,235/45R18",
+		"cuthe": "- Xe Hyundai Kona 2.0AT6 b\u1EA3n ti\u00EAu chu\u1EA9n, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 215/55R17, Nexen\n- Xe Hyundai Kona 2.0 AT6 b\u1EA3n \u0111\u1EB7c bi\u1EC7t, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 235/45R18,\n- Xe Hyundai Kona 1.6 Turbo, h\u1ED9p s\u1ED1 DCT 7 c\u1EA5p, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 235/45R18"
+	},
+	{
+		"maxe": 166,
+		"tenxe": "Hyundai Palisade",
+		"dong": "Palisade",
+		"hang": "Hyundai",
+		"size": "245/60R18,245/50R20",
+		"cuthe": "- Xe Hyundai Palisade 2.2, m\u00E1y d\u1EA7u, \u0111\u1ED9ng c\u01A1 V6, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 8 c\u1EA5p, tr\u1EE3 l\u00E1i \u0111i\u1EC7n, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 245/60R18 cho b\u1EA3n ti\u00EAu chu\u1EA9n, v\u00E0 245/50R20 (Michelin)cho b\u1EA3n cao c\u1EA5p\n- Xe Hyundai Palisade 3.8, m\u00E1y x\u0103ng, \u0111\u1ED9ng c\u01A1 V6, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 8 c\u1EA5p, tr\u1EE3 l\u00E1i \u0111i\u1EC7n, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 245/60R18 cho b\u1EA3n ti\u00EAu chu\u1EA9n, v\u00E0 245/50R20 (Michelin)cho b\u1EA3n cao c\u1EA5p"
+	},
+	{
+		"maxe": 167,
+		"tenxe": "Hyundai Santafe Gold",
+		"dong": "Santafe",
+		"hang": "Hyundai",
+		"size": "225/70R16",
+		"cuthe": "Xe Hyundai Santafe Gold d\u00F9ng c\u1EE1 l\u1ED1p 225/70R16"
+	},
+	{
+		"maxe": 168,
+		"tenxe": "Hyundai Santafe 2.0 diesel",
+		"dong": "Santafe",
+		"hang": "Hyundai",
+		"size": "235/60R18",
+		"cuthe": "Xe Santafe 2.0 m\u00E1y d\u1EA7u, xe Santafe MLX, xe Santafe SLX d\u00F9ng size l\u1ED1p 235/60R18,"
+	},
+	{
+		"maxe": 169,
+		"tenxe": "Hyundai Santafe 2.2 diesel",
+		"dong": "Santafe",
+		"hang": "Hyundai",
+		"size": "235/65R17,235/70R16,235/60R18,235/55R19",
+		"cuthe": "Xe Hyundai Santafe 2.2 diesel AT5 10/2006 - 2009 d\u00F9ng size l\u1ED1p 235/65R17,\nXe Hyundai Santafe 2.2 diesel MT5 2008 - 2009 d\u00F9ng size l\u1ED1p 235/70R16,\nXe Hyundai Santafe 2.2 diesel AT6 8/2010, 2WD 2016\u002B d\u00F9ng size l\u1ED1p 235/60R18, \nXe Hyundai Santafe 2.2 diesel 4WD AT6 2016\u002B d\u00F9ng size l\u1ED1p 235/55R19,"
+	},
+	{
+		"maxe": 170,
+		"tenxe": "Hyundai Santafe 2.4 x\u0103ng",
+		"dong": "Santafe",
+		"hang": "Hyundai",
+		"size": "235/65R17,235/60R18,235/55R19",
+		"cuthe": "Xe Hyundai Santafe 2.4 x\u0103ng GLS AT6 3/2011\u002B d\u00F9ng size l\u1ED1p 235/65R17,\nXe Hyundai Santafe 2.4 x\u0103ng 2WD 2016\u002B d\u00F9ng size l\u1ED1p 235/60R18,\nXe Hyundai Santafe 2.4 x\u0103ng 4WD 2016\u002B d\u00F9ng size l\u1ED1p 235/55R19,"
+	},
+	{
+		"maxe": 171,
+		"tenxe": "Hyundai Santafe 2.7 x\u0103ng",
+		"dong": "Santafe",
+		"hang": "Hyundai",
+		"size": "235/70R16, 235/65R17",
+		"cuthe": "Xe Santafe 2.7 m\u00E1y x\u0103ng AT4 10/2006-2007 d\u00F9ng size l\u1ED1p 235/70R16, 235/65R17,\nXe Santafe 2.7 m\u00E1y x\u0103ng AT4 2008\u002B d\u00F9ng size l\u1ED1p 235/65R17"
+	},
+	{
+		"maxe": 172,
+		"tenxe": "Hyundai Solati",
+		"dong": "Solati",
+		"hang": "Hyundai",
+		"size": "235/65R16C",
+		"cuthe": "Hyundai Solati 2.5 MT6, \u0111\u1ED9ng c\u01A1 I4, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 235/65R16C"
+	},
+	{
+		"maxe": 173,
+		"tenxe": "Hyundai Sonata",
+		"dong": "Sonata",
+		"hang": "Hyundai",
+		"size": "215/60R16, 225/45R18, 235/45R18",
+		"cuthe": "Xe Hyundai Sonata s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 215/60R16, 225/45R18, 235/45R18"
+	},
+	{
+		"maxe": 174,
+		"tenxe": "Hyundai Starex",
+		"dong": "Starex",
+		"hang": "Hyundai",
+		"size": "205/70R15,215/70R16,215/65R17",
+		"cuthe": "Xe Hyundai Starex (1997-2007) s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 205/70R15,\nXe Hyundai Starex (2008-2017) s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 215/70R16,\nXe Hyundai Starex Limousine 9 ch\u1ED7 2.4 x\u0103ng AT4 (2016\u002B) d\u00F9ng c\u1EE1 l\u1ED1p 215/65R17"
+	},
+	{
+		"maxe": 175,
+		"tenxe": "Hyundai Stargazer",
+		"dong": "Stargazer",
+		"hang": "Hyundai",
+		"size": "205/55R16",
+		"cuthe": "Th\u00F4ng tin c\u01A1 b\u1EA3n v\u1EC1 xe Hyundai Stargazer\nHyundai Stargazer l\u00E0 m\u1EABu MVP h\u1EA1ng B 5\u002B2 ch\u1ED7, \u0111\u1ED1i th\u1EE7 c\u1EA1nh tranh c\u1EE7a c\u00E1c xe Mitsubishi Xpander, Toyota Avanza, Suzuki Ertiga, ...\nHyundai Stargazer ra m\u1EAFt t\u1EA1i Vi\u1EC7t nam v\u1EDBi 4 phi\u00EAn b\u1EA3n: ti\u00EAu chu\u1EA9n, \u0110\u1EB7c bi\u1EC7t, Cao c\u1EA5p v\u00E0 cao c\u1EA5p 6 ch\u1ED7\nHyundai Stargazer s\u1EED d\u1EE5ng \u0111\u1ED9ng c\u01A1 x\u0103ng 1.5L v\u00E0 h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng IVT\n C\u00E1c phi\u00EAn b\u1EA3n xe Stargazer s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 205/55R16"
+	},
+	{
+		"maxe": 176,
+		"tenxe": "Hyundai Tucson",
+		"dong": "Tucson",
+		"hang": "Hyundai",
+		"size": "215/65R16,225/55R18,235/55R18",
+		"cuthe": "Xe Hyundai Tucson (2004-20019) s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 215/65R16\nXe Hyundai Tucson (2010-2012) s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 225/55R18\nXe Hyundai Tucson 2013\u002B s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 235/55R18"
+	},
+	{
+		"maxe": 177,
+		"tenxe": "Hyundai Tucson 2017\u002B",
+		"dong": "Tucson",
+		"hang": "Hyundai",
+		"size": "225/60R17,225/55R18,245/45R19",
+		"cuthe": "- Hyundai Tucson 2.0L (b\u1EA3n ti\u00EAu chu\u1EA9n): \u0110\u1ED9ng c\u01A1 I4, dung t\u00EDch 2.0L, m\u00E1y x\u0103ng,  h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 225/60R17\n- Hyundai Tucson 2.0L (b\u1EA3n \u0111\u1EB7c bi\u1EC7t): \u0110\u1ED9ng c\u01A1 I4, dung t\u00EDch 2.0L, m\u00E1y x\u0103ng, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 225/55R18,\n- Hyundai Tucson 2.0L (b\u1EA3n diesel \u0111\u1EB7c bi\u1EC7t): \u0110\u1ED9ng c\u01A1 I4, dung t\u00EDch 2.0L, m\u00E1y d\u1EA7u, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 225/55R18\n- Hyundai Tucson 1.6L T GDI (b\u1EA3n \u0111\u1EB7c bi\u1EC7t): \u0110\u1ED9ng c\u01A1 1.6 T GDI, dung t\u00EDch 1.6L, m\u00E1y x\u0103ng, h\u1ED9p s\u1ED1 DCT 7 c\u1EA5p, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 245/45R19"
+	},
+	{
+		"maxe": 178,
+		"tenxe": "Hyundai Tucson 2022",
+		"dong": "Tucson",
+		"hang": "Hyundai",
+		"size": "235/60R18,235/55R19",
+		"cuthe": "Th\u00F4ng tin xe Tucson 2022\nHyundai Tucson l\u00E0 m\u1EABu SUV/Crossover c\u1EA1nh tranh tr\u1EF1c ti\u1EBFp v\u1EDBi c\u00E1c m\u1EABu xe Mazda CX5, Mitsubishi Outlander, Honda CRV, Nissan Xtrail, \nHyundai Tucson All New 2022 ra m\u1EAFt v\u1EDBi c\u00E1c phi\u00EAn b\u1EA3n: 2.0 x\u0103ng ti\u00EAu chu\u1EA9n, 2.0 x\u0103ng \u0111\u1EB7c bi\u1EC7t, 2.0 d\u1EA7u \u0111\u0103c bi\u1EC7t, 1.6 x\u0103ng Turbo\nC\u1EE1 l\u1ED1p xe Hyundai Tucson: b\u1EA3n 2.0 x\u0103ng ti\u00EAu chu\u1EA9n 235/60R17, b\u1EA3n 2.0 x\u0103ng \u0111\u1EB7c bi\u1EC7t, 2.0 d\u1EA7u \u0111\u1EB7c bi\u1EC7t c\u1EE1 l\u1ED1p 235/60R18, ri\u00EAng b\u1EA3n 1.6 x\u0103ng Turbo c\u1EE1 l\u1ED1p 235/55R19"
+	},
+	{
+		"maxe": 179,
+		"tenxe": "Hyundai Veracruz",
+		"dong": "Veracruz",
+		"hang": "Hyundai",
+		"size": "245/65R17,245/60R18",
+		"cuthe": "Xe Hyundai Veracruz d\u00F9ng c\u1EE1 l\u1ED1p 245/65R17, Hyundai Veracruz \u0111\u1EDDi 2007 d\u00F9ng c\u1EE1 l\u1ED1p 245/60R18,"
+	},
+	{
+		"maxe": 180,
+		"tenxe": "Hyundai Verna",
+		"dong": "Verna",
+		"hang": "Hyundai",
+		"size": "175/70R14",
+		"cuthe": "Xe Hyundai Verna s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 175/70R14."
+	},
+	{
+		"maxe": 181,
+		"tenxe": "Hyundai Veloster",
+		"dong": "Veloster",
+		"hang": "Hyundai",
+		"size": "215/40R18",
+		"cuthe": "Xe Hyundai Veloster 1.6AT (2011-2013), \u0111\u1ED9ng c\u01A1/dung t\u00EDch:I4/1.6L, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, tr\u1EE3 l\u00E1i \u0111i\u1EC7n, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 215/40R18"
+	},
+	{
+		"maxe": 182,
+		"tenxe": "Isuzu D-max 2.5",
+		"dong": "D-max",
+		"hang": "Isuzu",
+		"size": "245/70R16,255/65R17",
+		"cuthe": "Xe Isuzu D-max LS 2.5 4x2 MT, h\u1ED9p s\u1ED1 s\u00E0n 5 c\u1EA5p, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 245/70R16,\nXe Isuzu D-max LS 2.5 4x2 AT, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 5 c\u1EA5p, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 245/70R16,\nXe Isuzu D-max LS 2.5 4x4 MT, h\u1ED9p s\u1ED1 s\u00E0n 5 c\u1EA5p, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 255/65R17,\nXe Isuzu D-max LS 2.5 4x4 AT, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 5 c\u1EA5p, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 255/65R17,"
+	},
+	{
+		"maxe": 183,
+		"tenxe": "Isuzu D-max 3.0",
+		"dong": "D-max",
+		"hang": "Isuzu",
+		"size": "245/70R16,255/65R17,205R16C",
+		"cuthe": "Xe Isuzu D-Max 3.0 (2005-2012) \u0111\u1EC1u s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 245/70R16,\nXe Isuzu D-Max 3.0 LS 4x4 (s\u1ED1 s\u00E0n v\u00E0 s\u1ED1 t\u1EF1 \u0111\u1ED9ng) t\u1EEB 2013-2017 \u0111\u1EC1u s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 255/65R17\nXe Isuzu D-Max 3.0 LS 4x2 (s\u1ED1 s\u00E0n v\u00E0 s\u1ED1 t\u1EF1 \u0111\u1ED9ng) t\u1EEB 2013-2014 \u0111\u1EC1u s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 245/70R16\nXe Isuzu D-Max 3.0 S 4x4 MT 2013 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 205R16C"
+	},
+	{
+		"maxe": 184,
+		"tenxe": "Isuzu D-max Gold",
+		"dong": "D-max",
+		"hang": "Isuzu",
+		"size": "255/65R17",
+		"cuthe": "Xe Isuzu D-max Gold s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 255/65R17"
+	},
+	{
+		"maxe": 185,
+		"tenxe": "Isuzu Hilander",
+		"dong": "Hilander",
+		"hang": "Isuzu",
+		"size": "205/65R15,235/70R15",
+		"cuthe": "Xe Isuzu Hilander, \u0111\u1ED9ng c\u01A1 2.5, \u0111\u1EDDi ch\u00EDnh: 2006,\nH\u1ED9p s\u1ED1 s\u00E0n 5 c\u1EA5p (Hilander LX, Hilander V-spec MT, Hilander Xtreme MT),\nH\u1ED9p s\u1ED1 t\u1EF1 \u0111\u00F4ng 4 c\u1EA5p (Hilander V-spec AT, Hilander Xtreme AT),\nXe Isuzu Hilander d\u00F9ng c\u1EE1 l\u1ED1p 205/65R15, xe Isuzu Hilander V-Spec d\u00F9ng c\u1EE1 l\u1ED1p 235/70R15,"
+	},
+	{
+		"maxe": 186,
+		"tenxe": "Isuzu MU-X",
+		"dong": "MU-X",
+		"hang": "Isuzu",
+		"size": "245/70R16,255/65R17",
+		"cuthe": "- Xe Isuzu MU-X B7, m\u00E1y d\u1EA7u, \u0111\u1ED9ng c\u01A1 4 xylanh th\u1EB3ng h\u00E0ng, dung t\u00EDch 2.5L, h\u1ED9p s\u1ED1 s\u00E0n 5 c\u1EA5p, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 245/70R16\n- Xe Isuzu MU-X 2.5L (4x2) MT, m\u00E1y d\u1EA7u, \u0111\u1ED9ng c\u01A1 4 xylanh th\u1EB3ng h\u00E0ng, dung t\u00EDch 2.5L, h\u1ED9p s\u1ED1 s\u00E0n 5 c\u1EA5p, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 255/65R17\n- Xe Isuzu MU-X 3.0L (4x2) AT, m\u00E1y d\u1EA7u, \u0111\u1ED9ng c\u01A1 4 xylanh th\u1EB3ng h\u00E0ng, dung t\u00EDch 3.0L, h\u1ED9p s\u1ED1 b\u00E1n t\u1EF1 \u0111\u1ED9ng 5 c\u1EA5p, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 255/65R17"
+	},
+	{
+		"maxe": 187,
+		"tenxe": "Isuzu Trooper",
+		"dong": "Trooper",
+		"hang": "Isuzu",
+		"size": "245/70R16",
+		"cuthe": "Xe Isuzu Trooper, \u0111\u1ED9ng c\u01A1 3.2, h\u1ED9p s\u1ED1 s\u00E0n, \u0111\u1EDDi g\u1EA7n nh\u1EA5t 2005,\nL\u1ED1p xe Isuzu Trooper d\u00F9ng c\u1EE1 l\u1ED1p 245/70R16, "
+	},
+	{
+		"maxe": 188,
+		"tenxe": "Jaguar XE",
+		"dong": "XE",
+		"hang": "Jaguar",
+		"size": "245/45R18",
+		"cuthe": "Xe Jaguar XE, xe Jaguar XE R Dynamic, l\u1ED1p xe Jaguar XE 2.0 ch\u00EDnh h\u00E3ng t\u1EA1i H\u00E0 N\u1ED9i"
+	},
+	{
+		"maxe": 189,
+		"tenxe": "Jaguar XF",
+		"dong": "XF",
+		"hang": "Jaguar",
+		"size": "225/55R17,245/45R18",
+		"cuthe": "Xe Jaguar XF 2.0 AT8, l\u1ED1p 18inch xe Jaguar XF ch\u00EDnh h\u00E3ng t\u1EA1i H\u00E0 N\u1ED9i"
+	},
+	{
+		"maxe": 190,
+		"tenxe": "Jaguar E-Pace",
+		"dong": "E-Pace",
+		"hang": "Jaguar",
+		"size": "245/45R20",
+		"cuthe": "Xe Jaguar E-Pace 2.0 d\u00F9ng l\u1ED1p 245/45R20,  245/45R20 PZero ch\u1ED1ng x\u1ECBt runflat"
+	},
+	{
+		"maxe": 191,
+		"tenxe": "Jaguar F-Pace",
+		"dong": "F-Pace",
+		"hang": "Jaguar",
+		"size": "255/55R19",
+		"cuthe": "Xe Jaguar F-Pace 3.0 V6 2017 d\u00F9ng size l\u1ED1p 255/55R19, xe Jaguar F-Pace SVR d\u00F9ng size l\u1ED1p 21 inch, 22 inch"
+	},
+	{
+		"maxe": 192,
+		"tenxe": "Jaguar F-Type",
+		"dong": "F-Type",
+		"hang": "Jaguar",
+		"size": "245/45R18",
+		"cuthe": "Xe Jaguar F-Type, xe Jaguar F-Type convertible 3.0 V6, xe Jaguar F-Type SVR 5.0, thay l\u1ED1p theo xe Jaguar F-Type ch\u00EDnh h\u00E3ng t\u1EA1i H\u00E0 N\u1ED9i,\nXe Jaguar F-Type convertible 3.0 V6 2018\u002B h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 8 c\u1EA5p, xe mui tr\u1EA7n, c\u1ED1p m\u1EDF ng\u01B0\u1EE3c, d\u00F9ng size l\u1ED1p 245/45R18, \nXe Jaguar F-Type SVR 5.0 d\u00F9ng size l\u1ED1p to"
+	},
+	{
+		"maxe": 193,
+		"tenxe": "Kia Cadenza",
+		"dong": "Cadenza",
+		"hang": "Kia",
+		"size": "225/55R18",
+		"cuthe": "Xe Kia Cadenza\n\u0110\u1ED9ng c\u01A1: 3.5L\nH\u1ED9p s\u1ED1 AT 6 c\u1EA5p\nL\u1ED1p xe Kia Cadenza s\u1EED d\u1EE5ng c\u1EE1 225/55R18"
+	},
+	{
+		"maxe": 194,
+		"tenxe": "Kia Carens",
+		"dong": "Carens",
+		"hang": "Kia",
+		"size": "205/60R16,225/50R17",
+		"cuthe": "Xe Kia Carens 1.6 d\u00F9ng c\u1EE1 l\u1ED1p 205/60R16,\nXe Kia Carens 2.0 tr\u01B0\u1EDBc 2010 \u0111\u1EC1u d\u00F9ng c\u1EE1 l\u1ED1p 205/60R16,\nXe Kia Carens 2.0 t\u1EEB 2010\u002B d\u00F9ng c\u1EE1 l\u1ED1p 225/50R17"
+	},
+	{
+		"maxe": 195,
+		"tenxe": "Kia Carnival",
+		"dong": "Carnival",
+		"hang": "Kia",
+		"size": "215/70R15,225/70R16,235/55R19",
+		"cuthe": "Kia Carnival t\u1EEB 2005-2009 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 215/70R15\nXe Kia Carnival 2010-2014 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 225/70R16\nXe Kia Carnival 2016-2018, m\u00E1y x\u0103ng, \u0111\u1ED9ng c\u01A1/dung t\u00EDch V6/3.3L, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 235/55R19\nXe Kia Carnival 2016-2018, m\u00E1y d\u1EA7u diesel, \u0111\u1ED9ng c\u01A1/dung t\u00EDch V4/2.2L, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 235/55R19"
 	}
 ]
