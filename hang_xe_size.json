@@ -105,7 +105,7 @@
 	},
 	{
 		"maxe": 14,
-		"tenxe": "Audi Sportback 1.4 2017\u002B",
+		"tenxe": "Audi Sportback 1.4 2017",
 		"dong": "A3",
 		"hang": "Audi",
 		"size": "225/45R17",
@@ -113,7 +113,7 @@
 	},
 	{
 		"maxe": 15,
-		"tenxe": "Audi Sportback 1.0 2017\u002B",
+		"tenxe": "Audi Sportback 1.0 2017",
 		"dong": "A3",
 		"hang": "Audi",
 		"size": "205/55R16",
@@ -129,7 +129,7 @@
 	},
 	{
 		"maxe": 17,
-		"tenxe": "Audi A4 2.0L 2015\u002B",
+		"tenxe": "Audi A4 2.0L 2015",
 		"dong": "A4",
 		"hang": "Audi",
 		"size": "225/50R17",
@@ -145,7 +145,7 @@
 	},
 	{
 		"maxe": 19,
-		"tenxe": "Audi A5 Sportback 2.0L 2017\u002B",
+		"tenxe": "Audi A5 Sportback 2.0L 2017",
 		"dong": "A5",
 		"hang": "Audi",
 		"size": "245/40R18",
@@ -169,7 +169,7 @@
 	},
 	{
 		"maxe": 22,
-		"tenxe": "Audi A5 Sportback 2.0L 2017\u002B",
+		"tenxe": "Audi A5 Sportback 2.0L 2017",
 		"dong": "A5",
 		"hang": "Audi",
 		"size": "245/40R18",
@@ -193,7 +193,7 @@
 	},
 	{
 		"maxe": 25,
-		"tenxe": "Audi A6 2.0 2019\u002B",
+		"tenxe": "Audi A6 2.0 2019",
 		"dong": "A6",
 		"hang": "Audi",
 		"size": "225/55R18",
@@ -209,7 +209,7 @@
 	},
 	{
 		"maxe": 27,
-		"tenxe": "Audi A6 3.0 2019\u002B",
+		"tenxe": "Audi A6 3.0 2019",
 		"dong": "A6",
 		"hang": "Audi",
 		"size": "225/55R18",
@@ -225,7 +225,7 @@
 	},
 	{
 		"maxe": 29,
-		"tenxe": "Audi A7 2017\u002B",
+		"tenxe": "Audi A7 2017",
 		"dong": "A7",
 		"hang": "Audi",
 		"size": "255/45R18",
@@ -249,7 +249,7 @@
 	},
 	{
 		"maxe": 32,
-		"tenxe": "Audi A8 4.0 Quattro 2017\u002B",
+		"tenxe": "Audi A8 4.0 Quattro 2017",
 		"dong": "A8",
 		"hang": "Audi",
 		"size": "255/45R19",
@@ -281,7 +281,7 @@
 	},
 	{
 		"maxe": 36,
-		"tenxe": "Audi Q3 2.0 quattro 2017\u002B",
+		"tenxe": "Audi Q3 2.0 quattro 2017",
 		"dong": "Q3",
 		"hang": "Audi",
 		"size": "235/55R17",
@@ -289,7 +289,7 @@
 	},
 	{
 		"maxe": 37,
-		"tenxe": "Audi Q3 2.0 quattro 2018\u002B",
+		"tenxe": "Audi Q3 2.0 quattro 2018",
 		"dong": "Q3",
 		"hang": "Audi",
 		"size": "235/55R18",
@@ -1558,5 +1558,525 @@
 		"hang": "Kia",
 		"size": "215/70R15,225/70R16,235/55R19",
 		"cuthe": "Kia Carnival t\u1EEB 2005-2009 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 215/70R15\nXe Kia Carnival 2010-2014 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 225/70R16\nXe Kia Carnival 2016-2018, m\u00E1y x\u0103ng, \u0111\u1ED9ng c\u01A1/dung t\u00EDch V6/3.3L, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 235/55R19\nXe Kia Carnival 2016-2018, m\u00E1y d\u1EA7u diesel, \u0111\u1ED9ng c\u01A1/dung t\u00EDch V4/2.2L, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 235/55R19"
+	},
+	{
+		"maxe": 196,
+		"tenxe": "Kia Cerato",
+		"dong": "Cerato",
+		"hang": "Kia",
+		"size": "205/55R16,215/45R17,225/45R17,225/40R18",
+		"cuthe": "- Kia Cerato Signature 1.6MT: \u0110\u1ED9ng c\u01A1 I4, dung t\u00EDch 1.6L, h\u1ED9p s\u1ED1 s\u00E0n 6 c\u1EA5p, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 205/55R16,\n- Kia Cerato Signature 1.6AT, 2.0AT: \u0110\u1ED9ng c\u01A1 I4, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 215/45R17,\n- Kia All New Cerato 2019\u002B (1.6MT, 1,6AT Deluxe, 1.6AT Luxury, 2.0AT Premium), s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 225/45R17, \n- Kia Cerato Koup 2.0AT 2009\u002B th\u1EC3 thao 2 c\u1EEDa: \u0110\u1ED9ng c\u01A1 I4, dung t\u00EDch 2.0L, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 225/40R18"
+	},
+	{
+		"maxe": 197,
+		"tenxe": "Kia Ceed",
+		"dong": "Ceed",
+		"hang": "Kia",
+		"size": "-",
+		"cuthe": "-"
+	},
+	{
+		"maxe": 198,
+		"tenxe": "Kia Forte",
+		"dong": "Forte",
+		"hang": "Kia",
+		"size": "215/45R17",
+		"cuthe": "Xe Kia Forte l\u00E0 d\u00F2ng Sedan, m\u00E1y x\u0103ng, \u0111\u1ED9ng c\u01A1 4 xylanh-DOHC, dung t\u00EDch 1.5L. h\u1ED9p s\u1ED1 5 s\u1ED1 s\u00E0n, d\u00F9ng c\u1EE1 l\u1ED1p 215/45R17\nXe Kia Forte EX 1.6 MT v\u00E0 Forte SX 1.6 MT tr\u1EE3 l\u00E1i th\u1EE7y l\u1EF1c, Vi\u1EC7t Nam 12/2010-10/2013 d\u00F9ng c\u1EE1 l\u1ED1p 215/45R17,"
+	},
+	{
+		"maxe": 199,
+		"tenxe": "Kia K3",
+		"dong": "K3",
+		"hang": "Kia",
+		"size": "215/45R17,225/45R17",
+		"cuthe": "Xe Kia K3 sedan 1.6 x\u0103ng AT6 tr\u1EE3 l\u00E1i \u0111i\u1EC7n, Vi\u1EC7t Nam 10/2013-5/2016 d\u00F9ng c\u1EE1 l\u1ED1p 215/45R17,\nXe Kia K3 2022 c\u00E1c phi\u00EAn b\u1EA3n: 1.6 Deluxe, 1.6 Luxury, 1.6 Premium, 1.6 Turbo, 2.0 Premuim s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 225/45R17"
+	},
+	{
+		"maxe": 200,
+		"tenxe": "Kia K7",
+		"dong": "K7",
+		"hang": "Kia",
+		"size": "225/55R17,245/40R19",
+		"cuthe": "Xe Kia K7 d\u00F2ng Sedan, dung t\u00EDch 3.3L, m\u00E1y x\u0103ng, h\u1ED9p s\u1ED1 6 s\u1ED1 t\u1EF1 \u0111\u1ED9ng, d\u00F9ng c\u1EE1 l\u1ED1p 225/55R17\nXe Kia K7 3.5L, nh\u1EADp kh\u1EA9u, \u0111\u1EDDi 2016 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 245/40R19, "
+	},
+	{
+		"maxe": 201,
+		"tenxe": "Kia Morning",
+		"dong": "Morning",
+		"hang": "Kia",
+		"size": "155/65R13, 165/65R13, 165/60R14, 175/50R15,155/70R13",
+		"cuthe": "Xe Kia Morning d\u00F9ng size l\u1ED1p 155/65R13, 165/65R13, 165/60R14, 175/50R15,\nXe Kia Morning Van d\u00F9ng size l\u1ED1p 155/70R13,"
+	},
+	{
+		"maxe": 202,
+		"tenxe": "Kia Optima (Kia K5)",
+		"dong": "Optima",
+		"hang": "Kia",
+		"size": "225/45R18,215/55R17",
+		"cuthe": "- Xe Kia Optima 2.0 AT6 t\u1EEB 2012-2013, \u0111\u1ED9ng c\u01A1/dung t\u00EDch: I4/2.0L, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 225/45R18\n- Xe Kia Optima, \u0111\u1ED9ng c\u01A1 I4, dung t\u00EDch 2.0L, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 215/55R17\n- C\u00E1c phi\u00EAn b\u1EA3n xe Kia Optima 2017 ( 2.0AT v\u00E0 2.4 GT-Line) \u0111\u1EC1u s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 235/45R18\n-  C\u00E1c phi\u00EAn b\u1EA3n xe Kia K5 2021-2022 g\u1ED3m 2.0 Luxury 6AT, 2.0 Premium 6AT, 2.5 GT Line 8AT \u0111\u1EC1u s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 235/45R18"
+	},
+	{
+		"maxe": 203,
+		"tenxe": "Kia Picanto",
+		"dong": "Picanto",
+		"hang": "Kia",
+		"size": "175/50R15,165/60R14",
+		"cuthe": "Xe Kia Picanto S 1.25L l\u00E0 xe m\u00E1y x\u0103ng, \u0111\u1ED9ng c\u01A1 1.248cc I4, DOHC, h\u1ED9p s\u1ED1 h\u1ED9p s\u1ED1 5MT ho\u1EB7c 4AT, d\u00F9ng c\u1EE1 l\u1ED1p 175/50R15,\nC\u00E1c phi\u00EAn b\u1EA3n kh\u00E1c c\u1EE7a Kia Picanto d\u00F9ng c\u1EE1 l\u1ED1p 165/60R14"
+	},
+	{
+		"maxe": 204,
+		"tenxe": "Kia Quoris",
+		"dong": "Quoris",
+		"hang": "Kia",
+		"size": "245/45R19",
+		"cuthe": "Xe Kia Quoris\n- \u0110\u1ED9ng c\u01A1 V6, dung t\u00EDch 3.8\n- H\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 8 c\u1EA5p\n- S\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 245/45R19"
+	},
+	{
+		"maxe": 205,
+		"tenxe": "Kia Rio",
+		"dong": "Rio",
+		"hang": "Kia",
+		"size": "195/55R16,185/65R15,205/45R17",
+		"cuthe": "Xe Kia Rio 1.6 \u0111\u1EDDi tr\u01B0\u1EDBc 2011 d\u00F9ng c\u1EE1 l\u1ED1p 195/55R16,\nXe Kia Rio sedan 1.4 MT d\u00F9ng c\u1EE1 l\u1ED1p 185/65R15,\nXe  Kia Rio sedan 1.4 AT4, xe Kia Rio hatchback d\u00F9ng c\u1EE1 l\u1ED1p 205/45R17 ,"
+	},
+	{
+		"maxe": 206,
+		"tenxe": "Kia Rondo",
+		"dong": "Rondo",
+		"hang": "Kia",
+		"size": "225/45R17",
+		"cuthe": "Xe Kia Rondo 1.7 DAT, m\u00E1y d\u1EA7u, \u0111\u1ED9ng c\u01A1/dung t\u00EDch I4/1.7L, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 7 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 225/45R17,\nXe Kia Rondo 2.0 GMT, m\u00E1y x\u0103ng, \u0111\u1ED9ng c\u01A1/dung t\u00EDch:I4/2.0L, h\u1ED9p s\u1ED1 s\u00E0n 6 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 225/45R17,\nXe Kia Rondo 2.0 GAT, Rondo 2.0 GATH, m\u00E1y x\u0103ng, \u0111\u1ED9ng c\u01A1/dung t\u00EDch:I4/2.0L, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 225/45R17"
+	},
+	{
+		"maxe": 207,
+		"tenxe": "Kia Sedona",
+		"dong": "Sedona",
+		"hang": "Kia",
+		"size": "235/60R18",
+		"cuthe": "Xe Kia Sedona 2.2, \u0111\u1ED9ng c\u01A1/dung t\u00EDch I4/2.2L, \u0111\u1ED9ng c\u01A1 diesel, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 235/60R18\nXe Kia Sedona 3.3, \u0111\u1ED9ng c\u01A1/dung t\u00EDch V6/3.3L, \u0111\u1ED9ng c\u01A1 x\u0103ng, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 235/60R18"
+	},
+	{
+		"maxe": 208,
+		"tenxe": "Kia Seltos",
+		"dong": "Seltos",
+		"hang": "Kia",
+		"size": "215/60R17",
+		"cuthe": "L\u1ED1p xe Kia Seltos Deluxe, l\u1ED1p xe Kia Seltos Luxury, l\u1ED1p xe Kia Seltos Premium 1.4 h\u1ED1p s\u1ED1 ly h\u1EE3p k\u00E9p DCT 7 c\u1EA5p d\u00F9ng size l\u1ED1p 215/60R17"
+	},
+	{
+		"maxe": 209,
+		"tenxe": "Kia Soluto",
+		"dong": "Soluto",
+		"hang": "Kia",
+		"size": "175/70R14",
+		"cuthe": "Xe Kia Soluto 1.4 MT5 v\u00E0 Soluto 1.4 AT4 Deluxe, \u0111\u1ED9ng c\u01A1 I4, tr\u1EE3 l\u00E1i \u0111i\u1EC7n, d\u00F9ng c\u1EE1 l\u1ED1p 175/70R14"
+	},
+	{
+		"maxe": 210,
+		"tenxe": "Kia Sorento",
+		"dong": "Sorento",
+		"hang": "Kia",
+		"size": "235/60R18,235/55R19",
+		"cuthe": "Xe Kia Sorento 2.4G AT6 4x2, Vi\u1EC7t Nam 3/2014\u002B d\u00F9ng c\u1EE1 l\u1ED1p 235/60R18, Hankook,\nXe Kia Sorento All New 2021 c\u00E1c b\u1EA3n Luxury v\u00E0 Deluxe d\u00F9ng size l\u1ED1p 235/60R18 (Sorento 2.5G Luxury m\u00E1y x\u0103ng, Sorento 2.2D Luxury m\u00E1y d\u1EA7u, Sorento 2.2D Deluxe m\u00E1y d\u1EA7u),\nXe Kia Sorento All New 2021 c\u00E1c b\u1EA3n Premium v\u00E0 Signature d\u00F9ng size l\u1ED1p 235/55R19 (Sorento 2.5G Premium, Sorento 2.2D Premium, Sorento 2.5G Signature, Sorento 2.2D Signature),"
+	},
+	{
+		"maxe": 211,
+		"tenxe": "Kia Soul",
+		"dong": "Soul",
+		"hang": "Kia",
+		"size": "195/65R15,205/55R16,235/45R18",
+		"cuthe": "Xe Kia Soul 1.6 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 195/65R15\nXe Kia Soul 2.0 s\u1EED d\u1EE5ng c\u00E1c c\u1EE1 l\u1ED1p 205/55R16 v\u00E0 235/45R18 (\u0111\u1EDDi 2014)"
+	},
+	{
+		"maxe": 212,
+		"tenxe": "Kia Spectra",
+		"dong": "Spectra",
+		"hang": "Kia",
+		"size": "185/65R14,195/60R15",
+		"cuthe": "Xe Kia Spectra b\u1EAFt \u0111\u1EA7u \u0111\u01B0\u1EE3c s\u1EA3n xu\u1EA5t n\u0103m 2003\nXe Kia Spectra LSX 1.6 MT, xe Kia Spectra 2.0 (h\u1ED9p s\u1ED1 tay 5 c\u1EA5p v\u00E0 h\u1ED9p s\u1ED1 AT 4 c\u1EA5p)\nXe Kia Spectra 1.6 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 185/65R14, xe Kia Spectra 2.0 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 195/60R15"
+	},
+	{
+		"maxe": 213,
+		"tenxe": "Kia Sportage",
+		"dong": "Sportage",
+		"hang": "Kia",
+		"size": "235/55R18,245/45R19",
+		"cuthe": "Xe Kia Sportage c\u00F3 \u0111\u1ED9ng c\u01A1/dung t\u00EDch I4/2.0L, m\u00E1y x\u0103ng, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 235/55R18,\nXe Kia Sportage 2016 th\u1EBF h\u1EC7 th\u1EE9 4, \u0111\u1ED9ng c\u01A1 x\u0103ng 2.0 d\u00F9ng size l\u1ED1p 245/45R19, l\u1ED1p theo xe lo\u1EA1i Hankook"
+	},
+	{
+		"maxe": 214,
+		"tenxe": "Kia Sonet",
+		"dong": "Sonet",
+		"hang": "Kia",
+		"size": "215/60R16",
+		"cuthe": "Th\u00F4ng tin c\u01A1 b\u1EA3n v\u1EC1 xe Kia Sonet\nXe Kia Sonet l\u00E0 m\u1EABu SUV c\u1EE1 nh\u1ECF ra m\u1EAFt v\u00E0o t\u1EA1i th\u1ECB tr\u01B0\u1EDDng Vi\u1EC7t Nam th\u00E1ng 10/2021, \u0111\u01B0\u1EE3c THACO l\u1EAFp r\u00E1p, l\u00E0 \u0111\u1ED1i th\u1EE7 c\u1EA1nh tranh c\u1EE7a c\u00E1c xe Hyundai Kona, Ford Ecosport, Toyota Raize, \nXe Kia Sonet c\u00F3 c\u00E1c phi\u00EAn b\u1EA3n: Sonet Deluxe 1.5MT, Deluxe 1.5AT, Luxury 1.5AT v\u00E0 Premium 1.5AT \nC\u00E1c phi\u00EAn b\u1EA3n xe Kia Sonet s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 215/60R16"
+	},
+	{
+		"maxe": 215,
+		"tenxe": "Kia Telluride",
+		"dong": "Telluride",
+		"hang": "Kia",
+		"size": "245/50R20",
+		"cuthe": "Th\u00F4ng tin c\u01A1 b\u1EA3n v\u1EC1 xe Kia Telluride\nKia Telluride l\u00E0 m\u1EABu SUV 8 ch\u1ED7 h\u1EA1ng E \u0111\u1ED1i th\u1EE7 c\u1EA1nh tranh v\u1EDBi c\u00E1c xe: Toyota Highlander, Prado, Hyundai Palisade, Ford Explorer, Honda Pilot, ..\nKia Telluride s\u1EED d\u1EE5ng \u0111\u1ED9ng c\u01A1 x\u0103ng V6 3.8L, h\u1ED9p s\u1ED1 AT 8 c\u1EA5p, g\u1ED3m 2 phi\u00EAn b\u1EA3n: Telluride Premium v\u00E0 Telluride Luxury\nKia Telluride s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 245/50R20"
+	},
+	{
+		"maxe": 216,
+		"tenxe": "Land Rover Discovery LR4",
+		"dong": "Land Rover Discovery",
+		"hang": "Land Rover",
+		"size": "255/55R19",
+		"cuthe": "- Land Rover Discovery LR4 3.0L diesel, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng AT 8 c\u1EA5p, tr\u1EE3 l\u1EF1c th\u1EE7y l\u1EF1c, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 255/55R19\n- Land Rover Discovery LR4 3.0L x\u0103ng, d\u00F9ng c\u1EE1 l\u1ED1p 255/55R19"
+	},
+	{
+		"maxe": 217,
+		"tenxe": "Land Rover Discovery HSE",
+		"dong": "-",
+		"hang": "Land Rover",
+		"size": "255/55R19,245/45R20,255/55R20,275/45R21, 285/40R22",
+		"cuthe": "- Xe Land Rover Discovery HSE, t\u1EEB 2010-2014 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 255/55R19,\n- Xe Land Rover Discovery HSE 2.0L, h\u1ED9p s\u1ED1 AT 9 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, t\u1EEB 2015-2016 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 235/55R19, (245/45R20),\n- Xe Land Rover Discovery HSE 2.0L, h\u1ED9p s\u1ED1 AT 9 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, \u0111\u1EDDi 2017 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 255/55R20, (275/45R21, 285/40R22)\n- Xe Land Rover Discovery Sport HSE 2.0L, h\u1ED9p s\u1ED1 AT 9 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, \u0111\u1EDDi 2017 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 235/55R19, (245/45R20)"
+	},
+	{
+		"maxe": 218,
+		"tenxe": "Land Rover Discovery LandMark",
+		"dong": "-",
+		"hang": "Land Rover",
+		"size": "-",
+		"cuthe": "-"
+	},
+	{
+		"maxe": 219,
+		"tenxe": "Land Rover Discovery SE",
+		"dong": "-",
+		"hang": "Land Rover",
+		"size": "235/60R18,235/55R19,255/55R20,275/45R21, 285/40R22, 255/60R19",
+		"cuthe": "-Xe Land Rover Discovery SE 2.0L, h\u1ED9p s\u1ED1 AT 9 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, t\u1EEB 2015-2016 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 235/60R18, (235/55R19),\n- Xe Land Rover Discovery SE 2.0L, h\u1ED9p s\u1ED1 AT 9 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, \u0111\u1EDDi 2017 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 255/55R20, (275/45R21, 285/40R22, 255/60R19),\n- Xe Land Rover Discovery Sport SE 2.0L, h\u1ED9p s\u1ED1 AT 9 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, \u0111\u1EDDi 2017 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 235/60R18, (235/55R19)"
+	},
+	{
+		"maxe": 220,
+		"tenxe": "Land Rover Discovery S",
+		"dong": "-",
+		"hang": "Land Rover",
+		"size": "-",
+		"cuthe": "Xe Land Rover Discovery S 2.0L, h\u1ED9p s\u1ED1 AT 9 c\u1EA5p, tr\u1EE3 l\u00E1i \u0111i\u1EC7n, s\u1EED d\u1EE5ng v\u00E0nh 19 inch"
+	},
+	{
+		"maxe": 221,
+		"tenxe": "Land Rover Defender",
+		"dong": "-",
+		"hang": "Land Rover",
+		"size": "235/85R17",
+		"cuthe": "Xe Land Rover Defender 2.4, \u0111\u1ED9ng c\u01A1 d\u1EA7u (diesel), h\u1ED9p s\u1ED1 MT 6 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 235/85R17,"
+	},
+	{
+		"maxe": 222,
+		"tenxe": "Land Rover LR3 HSE",
+		"dong": "-",
+		"hang": "Land Rover",
+		"size": "255/55R19",
+		"cuthe": "Xe Land Rover LR3 HSE t\u1EEB 2005-2009 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 255/55R19"
+	},
+	{
+		"maxe": 223,
+		"tenxe": "Land Rover LR3 SE",
+		"dong": "-",
+		"hang": "Land Rover",
+		"size": "255/60R18",
+		"cuthe": "Xe Land Rover LR3 SE t\u1EEB 2005-2009 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 255/60R18"
+	},
+	{
+		"maxe": 224,
+		"tenxe": "Range Rover Evoque Dynamic",
+		"dong": "-",
+		"hang": "Land Rover",
+		"size": "245/45R20,235/55R19",
+		"cuthe": "Xe Ranger Rover Evoque Dynamic 2.0L, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng AT9 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 245/45R20, (235/55R19)"
+	},
+	{
+		"maxe": 225,
+		"tenxe": "Range Rover Evoque Prestige",
+		"dong": "-",
+		"hang": "Land Rover",
+		"size": "235/55R19,245/45R20",
+		"cuthe": "Xe Ranger Rover Evoque Prestige 2.0L, h\u1ED9p s\u1ED1 AT 9 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 235/55R19, (245/45R20)"
+	},
+	{
+		"maxe": 226,
+		"tenxe": "Range Rover Evoque Autobiography",
+		"dong": "-",
+		"hang": "Land Rover",
+		"size": "235/55R19,245/45R20,245/45R20",
+		"cuthe": "Xe Ranger Rover Evoque Autobiography 2.0L, h\u1ED9p s\u1ED1 AT 9 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, c\u00E1c \u0111\u1EDDi tr\u01B0\u1EDBc 2017 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 235/55R19, (245/45R20),\nXe Ranger Rover Evoque Autobiography 2.0L, h\u1ED9p s\u1ED1 AT 9 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, t\u1EEB 2017\u002B s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 245/45R20"
+	},
+	{
+		"maxe": 227,
+		"tenxe": "Range Rover Evoque HSE",
+		"dong": "-",
+		"hang": "Land Rover",
+		"size": "235/55R19,245/45R20",
+		"cuthe": "Xe Ranger Rover Evoque HSE 2.0L, h\u1ED9p s\u1ED1 AT 9 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 235/55R19, (245/45R20)"
+	},
+	{
+		"maxe": 228,
+		"tenxe": "Range Rover Evoque Pure",
+		"dong": "-",
+		"hang": "Land Rover",
+		"size": "235/55R19,245/45R20,235/60R18",
+		"cuthe": "Xe Ranger Rover Evoque Pure 2.0L, h\u1ED9p s\u1ED1 AT 9 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, c\u00E1c \u0111\u1EDDi tr\u01B0\u1EDBc 2014 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 235/55R19, (245/45R20),\nXe Ranger Rover Evoque Pure 2.0L, h\u1ED9p s\u1ED1 AT 9 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111ii\u1EC7n, t\u1EEB 2014-2015 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 235/60R18, (235/55R19, 245/45R20),"
+	},
+	{
+		"maxe": 229,
+		"tenxe": "Range Rover Evoque SE",
+		"dong": "-",
+		"hang": "Land Rover",
+		"size": "245/45R20,235/60R18, 235/55R19",
+		"cuthe": "Xe Ranger Rover Evoque SE 2.0L, h\u1ED9p s\u1ED1 AT 9 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 245/45R20, (235/60R18, 235/55R19)"
+	},
+	{
+		"maxe": 230,
+		"tenxe": "Ranger Rover Sport HSE",
+		"dong": "-",
+		"hang": "Land Rover",
+		"size": "255/50R19,275/40R20, 255/50R20,275/45R21,275/40R22",
+		"cuthe": "Xe Ranger Rover Sport HSE 3.0L, h\u1ED9p s\u1ED1 AT 8 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, t\u1EEB 2006-2013 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 255/50R19, (275/40R20), \nXe Ranger Rover Sport HSE 3.0L, h\u1ED9p s\u1ED1 AT 8 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, t\u1EEB 2014\u002B s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 255/50R20, (275/45R21, 275/40R22) "
+	},
+	{
+		"maxe": 231,
+		"tenxe": "Ranger Rover Sport Autobiography",
+		"dong": "-",
+		"hang": "Land Rover",
+		"size": "275/40R20,255/50R20,275/45R21, 275/40R22",
+		"cuthe": "Xe Ranger Rover Sport Autobiography 3.0L, h\u1ED9p s\u1ED1 AT 8 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, t\u1EEB 2011-2013 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 275/40R20,\nXe Ranger Rover Sport Autobiography 3.0L, h\u1ED9p s\u1ED1 AT 8 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, t\u1EEB 2014\u002B s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 255/50R20, (275/45R21, 275/40R22)"
+	},
+	{
+		"maxe": 232,
+		"tenxe": "Range Rover Sport SE",
+		"dong": "-",
+		"hang": "Land Rover",
+		"size": "235/65R19,255/50R20, 275/45R21, 275/40R22",
+		"cuthe": "Xe Range Rover Sport SE 3.0l, h\u1ED9p s\u1ED1 AT 8 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, t\u1EEB 2014\u002B s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 235/65R19, (255/50R20, 275/45R21, 275/40R22)"
+	},
+	{
+		"maxe": 233,
+		"tenxe": "Range Rover Sport Supercharged",
+		"dong": "-",
+		"hang": "Land Rover",
+		"size": "275/40R20,255/50R19,255/50R20,275/45R21, 275/40R22",
+		"cuthe": "Xe Range Rover Sport Supercharged 3.0L, h\u1ED9p s\u1ED1 AT 8 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, t\u1EEB 2006-2010 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 275/40R20,\nXe Range Rover Sport Supercharged 3.0L, h\u1ED9p s\u1ED1 AT 8 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, t\u1EEB 2011-2013 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 255/50R19, (275/40R20),\nXe Range Rover Sport Supercharged 3.0L, h\u1ED9p s\u1ED1 AT 8 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, t\u1EEB 2014\u002B s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 255/50R20, (275/45R21, 275/40R22)"
+	},
+	{
+		"maxe": 234,
+		"tenxe": "Range Rover Sport SVR",
+		"dong": "-",
+		"hang": "Land Rover",
+		"size": "275/45R21,295/40R22",
+		"cuthe": "Xe Range Rover Sport SVR, h\u1ED9p s\u1ED1 AT 8 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, \u0111\u1EDDi 2015 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 275/45R21,\nXe Range Rover Sport SVR, h\u1ED9p s\u1ED1 AT 8 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, \u0111\u1EDDi 2016\u002B s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 275/45R21, (295/40R22)"
+	},
+	{
+		"maxe": 235,
+		"tenxe": "Range Rover Sport S",
+		"dong": "-",
+		"hang": "Land Rover",
+		"size": "275/45R21",
+		"cuthe": "Xe Range Rover Sport S, h\u1ED9p s\u1ED1 AT 8 c\u1EA5p, tr\u1EE3 l\u1EF1c \u0111i\u1EC7n, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 275/45R21"
+	},
+	{
+		"maxe": 236,
+		"tenxe": "Range Rover Autobiography",
+		"dong": "-",
+		"hang": "Land Rover",
+		"size": "255/50R20,275/40R22",
+		"cuthe": "Xe Ranger Rover Autobiography 2010 d\u00F9ng c\u1EE1 l\u1ED1p 255/50R20, xe Ranger Rover Autobiography 2014 d\u00F9ng c\u1EE1 l\u1ED1p 275/40R22"
+	},
+	{
+		"maxe": 237,
+		"tenxe": "Range Rover Supercharged",
+		"dong": "-",
+		"hang": "Land Rover",
+		"size": "255/50R20,275/40R20,275/45R21,275/40R22",
+		"cuthe": "- Xe Ranger Rover Supercharged 5.0L, h\u1ED9p s\u1ED1 AT 8 c\u1EA5p, tr\u1EE3 l\u00E1i \u0111i\u1EC7n, t\u1EEB 2006-2012 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 255/50R20, (275/40R20),\n- Xe Ranger Rover Supercharged 5.0L, h\u1ED9p s\u1ED1 AT 8 c\u1EA5p, tr\u1EE3 l\u00E1i \u0111i\u1EC7n, t\u1EEB 2013-2017 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 275/45R21, (275/40R22),"
+	},
+	{
+		"maxe": 238,
+		"tenxe": "Ranger Rover Vogue",
+		"dong": "-",
+		"hang": "Land Rover",
+		"size": "275/45R21",
+		"cuthe": "- Xe Ranger Rover Vogue 3.0L diesel, h\u1ED9p s\u1ED1 AT 8 c\u1EA5p, tr\u1EE3 l\u00E1i \u0111i\u1EC7n, c\u1EE1 l\u1ED1p 20 inch,\n- Xe Ranger Rover Vogue 3.0L x\u0103ng, h\u1ED9p s\u1ED1 AT 8 c\u1EA5p, tr\u1EE3 l\u00E1i \u0111i\u1EC7n, s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 275/45R21,\n- Xe Ranger Rover Vogue 4.4L diesel, h\u1ED9p s\u1ED1 AT 8 c\u1EA5p, tr\u1EE3 l\u00E1i \u0111i\u1EC7n, c\u1EE1 l\u1ED1p 20 inch, \n- Xe Ranger Rover Vogue 5.0 x\u0103ng, h\u1ED9p s\u1ED1 AT 8 c\u1EA5p, tr\u1EE3 l\u00E1i \u0111i\u1EC7n, c\u1EE1 l\u1ED1p 20 inch"
+	},
+	{
+		"maxe": 239,
+		"tenxe": "Ranger Rover Velar",
+		"dong": "-",
+		"hang": "Land Rover",
+		"size": "255/55R19",
+		"cuthe": "- Xe Ranger Rover Velar 2.0L, m\u00E1y x\u0103ng, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 8 c\u1EA5p, tr\u1EE3 l\u00E1i \u0111i\u1EC7n, t\u1EEB 2017\u002B s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 255/55R19,\n- Xe Ranger Rover Velar 2.0L, m\u00E1y d\u1EA7u, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 8 c\u1EA5p, tr\u1EE3 l\u00E1i \u0111i\u1EC7n, t\u1EEB 2017\u002B s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 255/55R19,\n- Xe Ranger Rover Velar 3.0L, m\u00E1y x\u0103ng, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 8 c\u1EA5p, tr\u1EE3 l\u00E1i \u0111i\u1EC7n, t\u1EEB 2017\u002B s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 255/55R19"
+	},
+	{
+		"maxe": 240,
+		"tenxe": "Lexus GS200t",
+		"dong": "-",
+		"hang": "Lexus",
+		"size": "235/45R18,235/40R19,265/35R19",
+		"cuthe": "Xe Lexus GS 200t 2.0L, c\u00F3 \u0111\u1ED9ng c\u01A1/dung t\u00EDch I4/2.0L, \u0111\u1ED9ng c\u01A1 x\u0103ng, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 8 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 235/45R18, \nXe Lexus GS 200t F Sport 2.0L, c\u00F3 \u0111\u1ED9ng c\u01A1/dung t\u00EDch I4/2.0L, \u0111\u1ED9ng c\u01A1 x\u0103ng, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 8 c\u1EA5p, l\u1ED1p tr\u01B0\u1EDBc s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 235/40R19, l\u1ED1p sau s\u1EED d\u1EE5ng c\u1EE1 265/35R19"
+	},
+	{
+		"maxe": 241,
+		"tenxe": "Lexus GS300",
+		"dong": "-",
+		"hang": "Lexus",
+		"size": "215/60R16,225/55R16,225/50R17",
+		"cuthe": "Xe Lexus GS 300, \u0111\u1ED9ng c\u01A1 V6/3.0L, t\u1EEB 1993-2003 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 215/60R16,\nXe Lexus GS 300, \u0111\u1ED9ng c\u01A1 V6/3.0L, t\u1EEB 2004-2005 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 225/55R16,\nXe Lexus GS 300, \u0111\u1ED9ng c\u01A1 V6/3.0L, t\u1EEB 2006\u002B s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 225/50R17,"
+	},
+	{
+		"maxe": 242,
+		"tenxe": "Lexus GS350",
+		"dong": "-",
+		"hang": "Lexus",
+		"size": "225/50R17,235/45R18",
+		"cuthe": "Xe Lexus GS 350 \u0111\u1ED9ng c\u01A1 V6/3.5L, m\u00E1y x\u0103ng, h\u1ED9p s\u1ED1 6 s\u1ED1 t\u1EF1 \u0111\u1ED9ng. d\u00F9ng c\u1EE1 l\u1ED1p 225/50R17, 235/45R18"
+	},
+	{
+		"maxe": 243,
+		"tenxe": "Lexus GS430",
+		"dong": "-",
+		"hang": "Lexus",
+		"size": "225/55R16,245/40R18",
+		"cuthe": "Xe Lexus GS430, \u0111\u1ED9ng c\u01A1 V8/4.3L, t\u1EEB 2001-2005 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 225/55R16,\nXe Lexus GS430, \u0111\u1ED9ng c\u01A1 V8/4.3L, t\u1EEB 2006-2007 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 245/40R18,"
+	},
+	{
+		"maxe": 244,
+		"tenxe": "Luxus CT200h",
+		"dong": "-",
+		"hang": "Lexus",
+		"size": "215/45R17",
+		"cuthe": "Xe Lexus CT 200h 1.8 hatchback 2011\u002B d\u00F9ng size l\u1ED1p 215/45R17"
+	},
+	{
+		"maxe": 245,
+		"tenxe": "Lexus LS460",
+		"dong": "-",
+		"hang": "Lexus",
+		"size": "235/50R18,245/45R19",
+		"cuthe": "Xe Lexus LS460 d\u00F2ng Sedan, \u0111\u1ED9ng c\u01A1/dung t\u00EDch V8/4.6L, m\u00E1y x\u0103ng, h\u1ED9p s\u1ED1 8 s\u1ED1 t\u1EF1 \u0111\u1ED9ng, d\u00F9ng c\u1EE1 l\u1ED1p 235/50R18, b\u1EA3n n\u00E2ng c\u1EA5p d\u00F9ng c\u1EE1 l\u1ED1p 245/45R19,"
+	},
+	{
+		"maxe": 246,
+		"tenxe": "Lexus LS500h Hybrid",
+		"dong": "-",
+		"hang": "Lexus",
+		"size": "245/45R20",
+		"cuthe": "Xe Lexus LS500h 3.5L Hybrid 2018, d\u00F9ng c\u1EE1 l\u1ED1p 245/45R20 ch\u1ED1ng xit Runflat,"
+	},
+	{
+		"maxe": 247,
+		"tenxe": "Lexus LS600HL",
+		"dong": "-",
+		"hang": "Lexus",
+		"size": "235/50R18",
+		"cuthe": "Xe Lexus LS600HL d\u00F2ng Sedan, c\u00F3 \u0111\u1ED9ng c\u01A1/dung t\u00EDch V8/5.0L, d\u00F9ng c\u1EE1 l\u1ED1p 235/50R18,"
+	},
+	{
+		"maxe": 248,
+		"tenxe": "Lexus RX300",
+		"dong": "-",
+		"hang": "Lexus",
+		"size": "235/70R16",
+		"cuthe": "Xe Lexus RX300 3.0L (2000-2003), m\u00E1y x\u0103ng, d\u00F9ng c\u1EE1 l\u1ED1p 235/70R16,"
+	},
+	{
+		"maxe": 249,
+		"tenxe": "Lexus RX350",
+		"dong": "-",
+		"hang": "Lexus",
+		"size": "225/65R17,235/55R19,235/55R20",
+		"cuthe": "Xe Lexus RX350 3.4L, AWD, m\u00E1y x\u0103ng, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 5 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 225/65R17,\nXe Lexus RX350 3.5L, m\u00E1y x\u0103ng, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 235/55R19,\nXe Lexus RX350 3.5L 2016\u002B m\u00E1y x\u0103ng, h\u1ED9p s\u1ED1 AT 8 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 235/55R20,"
+	},
+	{
+		"maxe": 250,
+		"tenxe": "Lexus RX400h",
+		"dong": "-",
+		"hang": "Lexus",
+		"size": "235/55R18,225/65R17",
+		"cuthe": "Xe Lexus RX400h 2008, \u0111\u1ED9ng c\u01A1/dung t\u00EDch V6/3.3L, d\u00F9ng c\u1EE1 l\u1ED1p 235/55R18,\nXe Lexus RX400h 2009-2010, \u0111\u1ED9ng c\u01A1/dung t\u00EDch V6/3.3L, d\u00F9ng c\u1EE1 l\u1ED1p 225/65R17"
+	},
+	{
+		"maxe": 251,
+		"tenxe": "Lexus RX450h",
+		"dong": "-",
+		"hang": "Lexus",
+		"size": "235/55R19,235/55R20",
+		"cuthe": "Xe Lexus RX450h d\u00F2ng SUV, m\u00E1y x\u0103ng, \u0111\u1ED9ng c\u01A1/dung t\u00EDch V6/3.5L, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 235/55R19,\nXe Lexus RX 450h 2020\u002B, \u0111\u1ED9ng c\u01A1 V6/3.5L h\u1ED9p s\u1ED1 CVT, d\u00F9ng size l\u1ED1p 235/55R20"
+	},
+	{
+		"maxe": 252,
+		"tenxe": "Lexus RX Turbo 200t",
+		"dong": "-",
+		"hang": "Lexus",
+		"size": "235/55R20",
+		"cuthe": "Xe Lexus RX Turbo 200t 2.0L, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 235/55R20,"
+	},
+	{
+		"maxe": 253,
+		"tenxe": "Lexus GX460",
+		"dong": "-",
+		"hang": "Lexus",
+		"size": "265/60R18",
+		"cuthe": "Xe Lexus GX460 d\u00F2ng xe SUV, m\u00E1y x\u0103ng, \u0111\u1ED9ng c\u01A1/dung t\u00EDch V8/4.6L, d\u00F9ng size l\u1ED1p 265/60R18"
+	},
+	{
+		"maxe": 254,
+		"tenxe": "Lexus GX470",
+		"dong": "-",
+		"hang": "Lexus",
+		"size": "265/65R17",
+		"cuthe": "Xe Lexus GX470 \u0111\u1ED9ng c\u01A1/dung t\u00EDch V8/4.7L, m\u00E1y x\u0103ng, h\u1ED9p s\u1ED1 5 s\u1ED1 t\u1EF1 \u0111\u1ED9ng, d\u00F9ng c\u1EE1 l\u1ED1p 265/65R17,"
+	},
+	{
+		"maxe": 255,
+		"tenxe": "Lexus LX470",
+		"dong": "-",
+		"hang": "Lexus",
+		"size": "265/65R17",
+		"cuthe": "Xe Luxus LX470 \u0111\u1EDDi 2007 \u0111\u1ED9ng c\u01A1/dung t\u00EDch V8/4.7L, d\u00F2ng xe SUV, m\u00E1y x\u0103ng, d\u00F9ng c\u1EE1 l\u1ED1p 265/65R17"
+	},
+	{
+		"maxe": 256,
+		"tenxe": "Lexus LX570",
+		"dong": "-",
+		"hang": "Lexus",
+		"size": "285/50R20,275/50R21",
+		"cuthe": "Xe Lexus LX570 5.7 m\u00E1y x\u0103ng, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 285/50R20,\nXe Lexus LX570 5.7 2016\u002B, m\u00E1y x\u0103ng, h\u1ED9p s\u1ED1 AT 8 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 275/50R21"
+	},
+	{
+		"maxe": 257,
+		"tenxe": "Lexus LM300h",
+		"dong": "-",
+		"hang": "Lexus",
+		"size": "225/60R17",
+		"cuthe": "Xe Lexus LM300h 2.5L hybrid d\u00F9ng l\u1ED1p ch\u1ED1ng x\u1ECBt Runflat, c\u1EE1 l\u1ED1p 225/60R17"
+	},
+	{
+		"maxe": 258,
+		"tenxe": "Lexus NX 200t",
+		"dong": "-",
+		"hang": "Lexus",
+		"size": "225/65R17,225/60R18",
+		"cuthe": "Xe Lexus NX 200t 2.0L, c\u00F3 dung t\u00EDch/\u0111\u1ED9ng c\u01A1 I4/2.0L, \u0111\u1ED9ng c\u01A1 x\u0103ng, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 225/65R17,\nXe Lexus NX 200t F Sport 2.0L, \u0111\u1ED9ng c\u01A1/dung t\u00EDch I4/2.0L, \u0111\u1ED9ng c\u01A1 x\u0103ng, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 225/60R18, "
+	},
+	{
+		"maxe": 259,
+		"tenxe": "Lexus IS250",
+		"dong": "-",
+		"hang": "Lexus",
+		"size": "225/45R17",
+		"cuthe": "Xe Lexus IS250 AWD t\u1EEB 2010-2015 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 225/45R17,\nXe Lexus IS250 RWD t\u1EEB 2010-1013 l\u1ED1p tr\u01B0\u1EDBc s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 225/45R17, l\u1ED1p sau s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 245/45R17,"
+	},
+	{
+		"maxe": 260,
+		"tenxe": "Lexus ES350",
+		"dong": "-",
+		"hang": "Lexus",
+		"size": "215/55R17",
+		"cuthe": "Xe Lexus ES350 d\u00F2ng Sedan, \u0111\u1ED9ng c\u01A1 V6/3.4L, m\u00E1y x\u0103ng, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 215/55R17"
 	}
 ]
