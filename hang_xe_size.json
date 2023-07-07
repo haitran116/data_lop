@@ -2078,5 +2078,725 @@
 		"hang": "Lexus",
 		"size": "215/55R17",
 		"cuthe": "Xe Lexus ES350 d\u00F2ng Sedan, \u0111\u1ED9ng c\u01A1 V6/3.4L, m\u00E1y x\u0103ng, h\u1ED9p s\u1ED1 t\u1EF1 \u0111\u1ED9ng 6 c\u1EA5p, d\u00F9ng c\u1EE1 l\u1ED1p 215/55R17"
+	},
+	{
+		"maxe": 261,
+		"tenxe": "Mazda 2",
+		"dong": "-",
+		"hang": "Mazda",
+		"size": "185/65R15,185/60R16,185/50R16",
+		"cuthe": "Xe Mazda 2 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: \n-185/65R15: L\u1ED1p theo xe\n-185/60R16: L\u1ED1p theo xe\n-Ri\u00EAng Mazda 2 Sport d\u00F9ng l\u1ED1p 185/50R16."
+	},
+	{
+		"maxe": 262,
+		"tenxe": "Mazda 3",
+		"dong": "-",
+		"hang": "Mazda",
+		"size": "205/60R16,215/45R18",
+		"cuthe": "Xe Mazda 3 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: \n205/60R16: L\u1ED1p theo xe \n215/45R18: L\u1ED1p theo xe "
+	},
+	{
+		"maxe": 263,
+		"tenxe": "Mazda 6",
+		"dong": "-",
+		"hang": "Mazda",
+		"size": "225/45R19, 225/55R17, 225/55R19",
+		"cuthe": "Xe Mazda 6 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 225/45R19, 225/55R17, 225/55R19"
+	},
+	{
+		"maxe": 264,
+		"tenxe": "Mazda BT-50",
+		"dong": "-",
+		"hang": "Mazda",
+		"size": "255/70R16,265/65R17,245/70R16",
+		"cuthe": "Xe Mazda BT-50 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: \n255/70R16: L\u1ED1p theo xe\n265/65R17: L\u1ED1p theo xe\n245/70R16: L\u1ED1p theo xe"
+	},
+	{
+		"maxe": 265,
+		"tenxe": "Mazda CX-3",
+		"dong": "-",
+		"hang": "Mazda",
+		"size": "215/50R18, 215/60R16",
+		"cuthe": "Xe Mazda CX-3 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 215/50R18, 215/60R16."
+	},
+	{
+		"maxe": 266,
+		"tenxe": "Mazda Cx-5",
+		"dong": "-",
+		"hang": "Mazda",
+		"size": "225/55R19",
+		"cuthe": "Xe Mazda Cx-5 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 225/55R19."
+	},
+	{
+		"maxe": 267,
+		"tenxe": "Mazda CX-8",
+		"dong": "-",
+		"hang": "Mazda",
+		"size": "225/65R17,225/55R19",
+		"cuthe": "Xe Mazda CX-8 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 225/65R17, 225/55R19"
+	},
+	{
+		"maxe": 268,
+		"tenxe": "Mercedes C180",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "245/40R18",
+		"cuthe": "Xe Mercedes C180 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 245/40R18."
+	},
+	{
+		"maxe": 269,
+		"tenxe": "Mercedes C200",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "205/60R16,225/50R17",
+		"cuthe": "Xe Mercedes C200 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 205/60R16,225/50R17"
+	},
+	{
+		"maxe": 270,
+		"tenxe": "Mercedes C250",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "225/45R17",
+		"cuthe": "Xe Mercedes C250 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 225/45R17."
+	},
+	{
+		"maxe": 271,
+		"tenxe": "Mercedes C300",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "205/60R16,225/45R18,245/40R18,245/40R19,275/35R19",
+		"cuthe": "Xe Mercedes C300 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 205/60R16,225/45R18,245/40R18,245/40R19,275/35R19"
+	},
+	{
+		"maxe": 272,
+		"tenxe": "Mercedes E180",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "245/45R18, 255/35R18",
+		"cuthe": "Xe Mercedes E180 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 245/45R18, 255/35R18"
+	},
+	{
+		"maxe": 273,
+		"tenxe": "Mercedes E200",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "225/55R17, 245/45R17, 245/45R18, 275/40R18",
+		"cuthe": "Xe Mercedes E200 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 225/55R17, 245/45R17, 245/45R18, 275/40R18."
+	},
+	{
+		"maxe": 274,
+		"tenxe": "Mercedes E250",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "245/45R17, 245/45R18, 265/35R18",
+		"cuthe": "Xe Mercedes E250 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 245/45R17, 245/45R18, 265/35R18."
+	},
+	{
+		"maxe": 275,
+		"tenxe": "Mercedes E300",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "275/35R19",
+		"cuthe": "Xe Mercedes E300 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 275/35R19."
+	},
+	{
+		"maxe": 276,
+		"tenxe": "Mercedes E400",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "235/40R18",
+		"cuthe": "Xe Mercedes E400 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 235/40R18."
+	},
+	{
+		"maxe": 277,
+		"tenxe": "Mercedes GL350",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "265/60R18",
+		"cuthe": "Xe Mercedes GL350 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 265/60R18."
+	},
+	{
+		"maxe": 278,
+		"tenxe": "Mercedes GL500",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "265/60R18",
+		"cuthe": "Xe Mercedes GL500 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 265/60R18."
+	},
+	{
+		"maxe": 279,
+		"tenxe": "Mercedes GLC 200",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "235/60R18",
+		"cuthe": "Xe Mercedes GLC 200 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 235/60R18."
+	},
+	{
+		"maxe": 280,
+		"tenxe": "Mercedes GLC 250",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "235/60R18",
+		"cuthe": "Xe Mercedes GLC 250 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 235/60R18."
+	},
+	{
+		"maxe": 281,
+		"tenxe": "Mercedes GLC 300",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "235/60R18",
+		"cuthe": "Xe Mercedes GLC 300 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 235/60R18."
+	},
+	{
+		"maxe": 282,
+		"tenxe": "Mercedes GL320",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "265/60R18",
+		"cuthe": "Xe Mercedes GL320 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 265/60R18."
+	},
+	{
+		"maxe": 283,
+		"tenxe": "Mercedes S400",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "245/50R18, 275/45R18",
+		"cuthe": "Xe Mercedes S400 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 245/50R18, 275/45R18."
+	},
+	{
+		"maxe": 284,
+		"tenxe": "Mercedes S450",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "275/35R20, 275/40R19",
+		"cuthe": "Xe Mercedes S450 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 275/35R20, 275/40R19."
+	},
+	{
+		"maxe": 285,
+		"tenxe": "Mercedes S500",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "245/50R18",
+		"cuthe": "Xe Mercedes S500 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 245/50R18."
+	},
+	{
+		"maxe": 286,
+		"tenxe": "Mercedes-AMG A35",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "235/40R18",
+		"cuthe": "Xe Mercedes-AMG A35 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 235/40R18."
+	},
+	{
+		"maxe": 287,
+		"tenxe": "Mercedes-AMG C63",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "275/50R20, 225/40R18",
+		"cuthe": "Xe Mercedes-AMG C63 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 275/50R20, 225/40R18."
+	},
+	{
+		"maxe": 288,
+		"tenxe": "Mercedes C250",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "225/45R17",
+		"cuthe": "Xe Mercedes C250 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 225/45R17."
+	},
+	{
+		"maxe": 289,
+		"tenxe": "Mercedes-Benz GL 400",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "275/55R19",
+		"cuthe": "Xe Mercedes-Benz GL 400 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 275/55R19."
+	},
+	{
+		"maxe": 290,
+		"tenxe": "Mercedes-Benz GLE 450",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "315/40R21",
+		"cuthe": "Xe Mercedes-Benz GLE 450 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 315/40R21."
+	},
+	{
+		"maxe": 291,
+		"tenxe": "Mercedes-Benz GLS 400",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "275/50R20",
+		"cuthe": "Xe Mercedes-Benz GLS 400 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 275/50R20."
+	},
+	{
+		"maxe": 292,
+		"tenxe": "Mercedes-Benz GLS 450",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "275/45R21, 315/40R21",
+		"cuthe": "Xe Mercedes-Benz GLS 450 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 275/45R21, 315/40R21."
+	},
+	{
+		"maxe": 293,
+		"tenxe": "Mercedes-Benz Sprinter",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "225/70R15",
+		"cuthe": "Xe Mercedes-Benz Sprinter s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 225/70R15."
+	},
+	{
+		"maxe": 294,
+		"tenxe": "Mercedes-Benz V250",
+		"dong": "-",
+		"hang": "Mercedes",
+		"size": "225/55R17, 245/45R18",
+		"cuthe": "Xe Mercedes-Benz V250 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 225/55R17, 245/45R18."
+	},
+	{
+		"maxe": 295,
+		"tenxe": "Mitsubishi Attrage",
+		"dong": "-",
+		"hang": "Mitsubishi",
+		"size": "185/55R15",
+		"cuthe": "Xe Mitsubishi Attrage s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 185/55R15."
+	},
+	{
+		"maxe": 296,
+		"tenxe": "Mitsubishi Outlander",
+		"dong": "-",
+		"hang": "Mitsubishi",
+		"size": "215/60R17,225/55R18",
+		"cuthe": "Xe Mitsubishi Outlander s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 215/60R17,225/55R18"
+	},
+	{
+		"maxe": 297,
+		"tenxe": "Mitsubishi Pajero",
+		"dong": "-",
+		"hang": "Mitsubishi",
+		"size": "245/70R16, 265/70R16",
+		"cuthe": "Xe Mitsubishi Pajero s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 245/70R16, 265/70R16."
+	},
+	{
+		"maxe": 298,
+		"tenxe": "Mitsubishi Triton",
+		"dong": "-",
+		"hang": "Mitsubishi",
+		"size": "245/70R16,245/65R17,265/60R18,205R16C",
+		"cuthe": "Xe Mitsubishi Triton s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 245/70R16,245/65R17,265/60R18,205R16C"
+	},
+	{
+		"maxe": 299,
+		"tenxe": "Mitsubishi X-Pander",
+		"dong": "-",
+		"hang": "Mitsubishi",
+		"size": "205/55R16, 215/45R17, 205/55R17",
+		"cuthe": "Xe Mitsubishi X-Pander s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 205/55R16, 215/45R17, 205/55R17."
+	},
+	{
+		"maxe": 300,
+		"tenxe": "Mitsubishi Zinger",
+		"dong": "-",
+		"hang": "Mitsubishi",
+		"size": "205/70R15, 225/60R16",
+		"cuthe": "Xe Mitsubishi Zinger s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 205/70R15, 225/60R16. "
+	},
+	{
+		"maxe": 301,
+		"tenxe": "Mitsubishi Grandis",
+		"dong": "-",
+		"hang": "Mitsubishi",
+		"size": "215/60R16, 215/55R17",
+		"cuthe": "Xe Mitsubishi Grandis s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 215/60R16, 215/55R17."
+	},
+	{
+		"maxe": 302,
+		"tenxe": "Mitsubishi Lancer",
+		"dong": "-",
+		"hang": "Mitsubishi",
+		"size": "185/65R14,195/60R15",
+		"cuthe": "Xe Mitsubishi Lancer 1.6MT t\u1EEB 2000-2007 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 185/65R14.\nXe Mitsubishi Lancer 1.6CVT t\u1EEB 2003-2007 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 185/65R14.\nXe Mitsubishi Lancer 2.0AT t\u1EEB 2005-2007 s\u1EED d\u1EE5ng c\u1EE1 l\u1ED1p 195/60R15."
+	},
+	{
+		"maxe": 303,
+		"tenxe": "Mitsubishi Mirage",
+		"dong": "-",
+		"hang": "Mitsubishi",
+		"size": "175/55R15, 165/65R14",
+		"cuthe": "Xe Mitsubishi Mirage s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 175/55R15, 165/65R14."
+	},
+	{
+		"maxe": 304,
+		"tenxe": "Mitsubishi X-Pander Cross",
+		"dong": "-",
+		"hang": "Mitsubishi",
+		"size": "205/55R17",
+		"cuthe": "Xe Mitsubishi X-Pander Cross s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 205/55R17"
+	},
+	{
+		"maxe": 305,
+		"tenxe": "Nissan Grand Livina",
+		"dong": "-",
+		"hang": "Nissan",
+		"size": "185/65R15, 205/55R16",
+		"cuthe": "Xe Nissan Grand Livina s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 185/65R15, 205/55R16."
+	},
+	{
+		"maxe": 306,
+		"tenxe": "Nissan Navara",
+		"dong": "-",
+		"hang": "Nissan",
+		"size": "205R16C,255/70R16,255/65R17,255/60R18",
+		"cuthe": "Xe Nissan Navara s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 205R16C,255/70R16,255/65R17,255/60R18"
+	},
+	{
+		"maxe": 307,
+		"tenxe": "Nissan Sunny",
+		"dong": "-",
+		"hang": "Nissan",
+		"size": "175/70R14, 185/65R15",
+		"cuthe": "Xe Nissan Sunny s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 175/70R14, 185/65R15."
+	},
+	{
+		"maxe": 308,
+		"tenxe": "Nissan Teana",
+		"dong": "-",
+		"hang": "Nissan",
+		"size": "205/65R16, 215/55R17",
+		"cuthe": "Xe Nissan Teana s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 205/65R16, 215/55R17."
+	},
+	{
+		"maxe": 309,
+		"tenxe": "Nissan Terra",
+		"dong": "-",
+		"hang": "Nissan",
+		"size": "255/65R17,255/60R18",
+		"cuthe": "Xe Nissan Terra s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 255/65R17,255/60R18"
+	},
+	{
+		"maxe": 310,
+		"tenxe": "Nissan Almera",
+		"dong": "-",
+		"hang": "Nissan",
+		"size": "195/65R15",
+		"cuthe": "Xe Nissan Almera s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 195/65R15."
+	},
+	{
+		"maxe": 311,
+		"tenxe": "Nissan Grand Livina",
+		"dong": "-",
+		"hang": "Nissan",
+		"size": "185/65R15, 205/55R16",
+		"cuthe": "Xe Nissan Grand Livina s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 185/65R15, 205/55R16."
+	},
+	{
+		"maxe": 312,
+		"tenxe": "Peugeot 2008",
+		"dong": "-",
+		"hang": "Peugeot",
+		"size": "215/60R17",
+		"cuthe": "Xe Peugeot 2008 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 215/60R17."
+	},
+	{
+		"maxe": 313,
+		"tenxe": "Peugeot 208",
+		"dong": "-",
+		"hang": "Peugeot",
+		"size": "205/45R17",
+		"cuthe": "Xe Peugeot 208 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 205/45R17."
+	},
+	{
+		"maxe": 314,
+		"tenxe": "Peugeot 3008",
+		"dong": "-",
+		"hang": "Peugeot",
+		"size": "225/50R17, 225/55R18, 235/50R19",
+		"cuthe": "Xe Peugeot 3008 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 225/50R17, 225/55R18, 235/50R19. "
+	},
+	{
+		"maxe": 315,
+		"tenxe": "Peugeot 308",
+		"dong": "-",
+		"hang": "Peugeot",
+		"size": "195/65R15",
+		"cuthe": "Xe Peugeot 308 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 195/65R15."
+	},
+	{
+		"maxe": 316,
+		"tenxe": "Peugeot 408",
+		"dong": "-",
+		"hang": "Peugeot",
+		"size": "215/50R17",
+		"cuthe": "Xe Peugeot 408 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 215/50R17."
+	},
+	{
+		"maxe": 317,
+		"tenxe": "Peugeot 5008",
+		"dong": "-",
+		"hang": "Peugeot",
+		"size": "225/55R18",
+		"cuthe": "Xe Peugeot 5008 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 225/55R18."
+	},
+	{
+		"maxe": 318,
+		"tenxe": "Peugeot 508",
+		"dong": "-",
+		"hang": "Peugeot",
+		"size": "235/45R18",
+		"cuthe": "Xe Peugeot 508 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 235/45R18."
+	},
+	{
+		"maxe": 319,
+		"tenxe": "Subaru Forester",
+		"dong": "-",
+		"hang": "Peugeot",
+		"size": "225/55R18, 225/60R17",
+		"cuthe": "Xe Subaru Forester s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 225/55R18, 225/60R17."
+	},
+	{
+		"maxe": 320,
+		"tenxe": "Suzuki Swift",
+		"dong": "-",
+		"hang": "Suzuki",
+		"size": "185/55R16, 185/60R15, 185/65R15, 195/50R16, 205/45R17",
+		"cuthe": "Xe Suzuki Swift s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 185/55R16, 185/60R15, 185/65R15, 195/50R16, 205/45R17."
+	},
+	{
+		"maxe": 321,
+		"tenxe": "Suzuki Vitara",
+		"dong": "-",
+		"hang": "Suzuki",
+		"size": "215/55R17",
+		"cuthe": "Xe Suzuki Vitara s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 215/55R17."
+	},
+	{
+		"maxe": 322,
+		"tenxe": "Suzuki XL7",
+		"dong": "-",
+		"hang": "Suzuki",
+		"size": "195/60R16",
+		"cuthe": "Xe Suzuki XL7 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 195/60R16"
+	},
+	{
+		"maxe": 323,
+		"tenxe": "Toyota Alphard",
+		"dong": "-",
+		"hang": "Toyota",
+		"size": "235/50R18",
+		"cuthe": "Xe Toyota Alphard s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 235/50R18."
+	},
+	{
+		"maxe": 324,
+		"tenxe": "Toyota Corolla Altis",
+		"dong": "-",
+		"hang": "Toyota",
+		"size": "185/70R14,195/65R15,205/55R16,215/45R17",
+		"cuthe": "Xe Toyota Corolla Altis s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 185/70R14,195/65R15,205/55R16,215/45R17."
+	},
+	{
+		"maxe": 325,
+		"tenxe": "Toyota Avanza",
+		"dong": "-",
+		"hang": "Toyota",
+		"size": "185/70R14,185/65R15",
+		"cuthe": "Xe Toyota Avanza s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 185/70R14,185/65R15"
+	},
+	{
+		"maxe": 326,
+		"tenxe": "Toyota Camry",
+		"dong": "-",
+		"hang": "Toyota",
+		"size": "215/55R17,215/60R16,235/45R18,205/65R15",
+		"cuthe": "Xe Toyota Camry s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 215/55R17,215/60R16,235/45R18,205/65R15"
+	},
+	{
+		"maxe": 327,
+		"tenxe": "Toyota Corolla Cross",
+		"dong": "-",
+		"hang": "Toyota",
+		"size": "215/60R17,225/50R18",
+		"cuthe": "Xe Toyota Corolla Cross s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 215/60R17,225/50R18"
+	},
+	{
+		"maxe": 328,
+		"tenxe": "Toyota Fortuner",
+		"dong": "-",
+		"hang": "Toyota",
+		"size": "265/65R17,265/60R18",
+		"cuthe": "Xe Toyota Fortuner s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 265/65R17,265/60R18"
+	},
+	{
+		"maxe": 329,
+		"tenxe": "Toyota Highlander",
+		"dong": "-",
+		"hang": "Toyota",
+		"size": "245/55R19",
+		"cuthe": "Xe Toyota Highlander s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 245/55R19."
+	},
+	{
+		"maxe": 330,
+		"tenxe": "Toyota Hilux",
+		"dong": "-",
+		"hang": "Toyota",
+		"size": "265/65R17,265/60R18,185/80R14",
+		"cuthe": "Xe Toyota Hilux s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 265/65R17,265/60R18,185/80R14"
+	},
+	{
+		"maxe": 331,
+		"tenxe": "Toyota Innova",
+		"dong": "-",
+		"hang": "Toyota",
+		"size": "205/65R15, 205/65R16, 215/55R17, 225/60R16",
+		"cuthe": "Xe Toyota Innova s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 205/65R15, 205/65R16, 215/55R17, 225/60R16."
+	},
+	{
+		"maxe": 332,
+		"tenxe": "Toyota Land Cruiser",
+		"dong": "-",
+		"hang": "Toyota",
+		"size": "265/65R17, 285/60R17, 285/60R18, 275/55R20, 265/55R20,265/60R18,285/65R17",
+		"cuthe": "Xe Toyota Land Cruiser s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 265/65R17, 285/60R17, 285/60R18, 275/55R20, 265/55R20. \nPhi\u00EAn b\u1EA3n Land Cruiser Prado d\u00F9ng size l\u1ED1p 265/60R18, c\u00F2n b\u1EA3n Land Cruiser V8 d\u00F9ng 285/65R17."
+	},
+	{
+		"maxe": 333,
+		"tenxe": "Toyota Prado",
+		"dong": "-",
+		"hang": "Toyota",
+		"size": "265/60R18, 265/55R19",
+		"cuthe": "Xe Toyota Prado s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 265/60R18, 265/55R19."
+	},
+	{
+		"maxe": 334,
+		"tenxe": "Toyota RAV4",
+		"dong": "-",
+		"hang": "Toyota",
+		"size": "225/65R17, 235/55R19",
+		"cuthe": "Xe Toyota RAV4 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 225/65R17, 235/55R19."
+	},
+	{
+		"maxe": 335,
+		"tenxe": "Toyota Rush",
+		"dong": "-",
+		"hang": "Toyota",
+		"size": "215/65R16,215/60R17",
+		"cuthe": "Xe Toyota Rush s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 215/65R16,215/60R17"
+	},
+	{
+		"maxe": 336,
+		"tenxe": "Toyota Sienna",
+		"dong": "-",
+		"hang": "Toyota",
+		"size": "235/50R19, 235/60R17",
+		"cuthe": "Xe Toyota Sienna s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 235/50R19, 235/60R17."
+	},
+	{
+		"maxe": 337,
+		"tenxe": "Toyota Venza",
+		"dong": "-",
+		"hang": "Toyota",
+		"size": "245/55R19",
+		"cuthe": "Xe Toyota Venza s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 245/55R19."
+	},
+	{
+		"maxe": 338,
+		"tenxe": "Toyota Vios",
+		"dong": "-",
+		"hang": "Toyota",
+		"size": "175/65R14, 185/60R15, 185/65R14",
+		"cuthe": "Xe Toyota Vios s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 175/65R14, 185/60R15, 185/65R14."
+	},
+	{
+		"maxe": 339,
+		"tenxe": "Toyota Wigo",
+		"dong": "-",
+		"hang": "Toyota",
+		"size": "175/65R14, 175/65R15",
+		"cuthe": "Xe Toyota Wigo s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 175/65R14, 175/65R15."
+	},
+	{
+		"maxe": 340,
+		"tenxe": "Toyota Yaris",
+		"dong": "-",
+		"hang": "Toyota",
+		"size": "Toyota Yaris",
+		"cuthe": "Xe Toyota Yaris s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 185/60R15, 195/50R16."
+	},
+	{
+		"maxe": 341,
+		"tenxe": "Toyota Zace",
+		"dong": "-",
+		"hang": "Toyota",
+		"size": "195/65R15",
+		"cuthe": "Xe Toyota Zace s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 195/65R15."
+	},
+	{
+		"maxe": 342,
+		"tenxe": "Toyota Granvia",
+		"dong": "-",
+		"hang": "Toyota",
+		"size": "235/60R17",
+		"cuthe": "Xe Toyota Granvia s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 235/60R17."
+	},
+	{
+		"maxe": 343,
+		"tenxe": "Toyota Hiace",
+		"dong": "-",
+		"hang": "Toyota",
+		"size": "195/80R15, 235/65R16, 195R15C",
+		"cuthe": "Xe Toyota Hiace s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 195/80R15, 235/65R16, 195R15C."
+	},
+	{
+		"maxe": 344,
+		"tenxe": "Toyota Veloz",
+		"dong": "-",
+		"hang": "Toyota",
+		"size": "195/60R16",
+		"cuthe": "Xe Toyota Veloz s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 195/60R16"
+	},
+	{
+		"maxe": 345,
+		"tenxe": "Vinfast Fadil",
+		"dong": "-",
+		"hang": "Vinfast",
+		"size": "185/55R15",
+		"cuthe": "Xe Vinfast Fadil s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 185/55R15."
+	},
+	{
+		"maxe": 346,
+		"tenxe": "Vinfast Lux A 2.0",
+		"dong": "-",
+		"hang": "Vinfast",
+		"size": "245/40R19, 245/45R18, 275/35R19",
+		"cuthe": "Xe Vinfast Lux A 2.0 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 245/40R19, 245/45R18, 275/35R19."
+	},
+	{
+		"maxe": 347,
+		"tenxe": "Vinfast Lux SA 2.0",
+		"dong": "-",
+		"hang": "Vinfast",
+		"size": "255/50R19, 285/45R19,275/40R20, 315/35R20",
+		"cuthe": "Xe Vinfast Lux SA 2.0 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 255/50R19, 285/45R19. \nVinfast Lux SA 2.0 Turbo d\u00F9ng c\u00E1c size l\u1ED1p 275/40R20, 315/35R20."
+	},
+	{
+		"maxe": 348,
+		"tenxe": "Volvo XC40",
+		"dong": "-",
+		"hang": "Volvo",
+		"size": "235/50R19",
+		"cuthe": "Xe Volvo XC40 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 235/50R19."
+	},
+	{
+		"maxe": 349,
+		"tenxe": "Volvo XC60",
+		"dong": "-",
+		"hang": "Volvo",
+		"size": "235/55R19,255/45R20",
+		"cuthe": "Xe Volvo XC60 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 235/55R19,255/45R20"
+	},
+	{
+		"maxe": 350,
+		"tenxe": "Volvo XC90",
+		"dong": "-",
+		"hang": "Volvo",
+		"size": "275/45R20",
+		"cuthe": "Xe Volvo XC90 s\u1EED d\u1EE5ng c\u00E1c l\u1ED1p c\u00F3 k\u00EDch th\u01B0\u1EDBc: 275/45R20."
 	}
 ]
